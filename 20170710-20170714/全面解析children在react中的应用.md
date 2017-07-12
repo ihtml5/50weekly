@@ -101,6 +101,7 @@ Here is another row:
 ```
 ![](http://mxstbr.blog/img/react-children-grid-mixed.png)
 [(Live demo)](http://www.webpackbin.com/E1IpLQ3PM)
+<<<<<<< HEAD
 
 ### 把函数作为后代
 
