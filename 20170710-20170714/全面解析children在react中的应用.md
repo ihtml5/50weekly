@@ -61,7 +61,6 @@ class Fullstop extends React.Component {
 
 ```
 无论你想传递那个孩子给这个组件，它总是显示“Hello world”, 其他什么都不做。
-<<<<<<< HEAD:20170710-20170714/深入理解react中this.props.children的应用.md
 > 注意：上面例子中的这个<code>\<h1></code>更像html的原始标签，总以“Hello World”渲染他们孩子。
 
 ### 一切都可以被当做孩子
@@ -102,6 +101,4 @@ Here is another row:
 ```
 ![](http://mxstbr.blog/img/react-children-grid-mixed.png)
 [(Live demo)](http://www.webpackbin.com/E1IpLQ3PM)
-=======
 > 注意：上面例子中的这个<code>\<h1></code>更像html的原始标签，当渲染他们孩子时，总输出Hello World
->>>>>>> a8d1ba8cf600ed9504df07562cb1b532ff3dcc45:20170710-20170714/全面解析children在react中的应用.md
