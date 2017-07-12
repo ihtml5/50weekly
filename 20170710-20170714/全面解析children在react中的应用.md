@@ -61,7 +61,6 @@ class Fullstop extends React.Component {
 
 ```
 无论你想传递那个孩子给这个组件，它总是显示“Hello world”, 其他什么都不做。
-<<<<<<< HEAD:20170710-20170714/深入理解react中this.props.children的应用.md
 > 注意：上面例子中的这个<code>\<h1></code>更像html的原始标签，总以“Hello World”渲染他们孩子。
 
 ### 一切都可以被当做孩子
@@ -102,6 +101,85 @@ Here is another row:
 ```
 ![](http://mxstbr.blog/img/react-children-grid-mixed.png)
 [(Live demo)](http://www.webpackbin.com/E1IpLQ3PM)
-=======
-> 注意：上面例子中的这个<code>\<h1></code>更像html的原始标签，当渲染他们孩子时，总输出Hello World
->>>>>>> a8d1ba8cf600ed9504df07562cb1b532ff3dcc45:20170710-20170714/全面解析children在react中的应用.md
+
+### 把函数作为后代
+
+为哦们可以传递任何javascript表达式作为后代。这包括函数。
+
+为了说明这是什么样子，这是一个组件，它执行一个传递给它的函数:
+```javascript
+class Executioner extends React.Component {
+  render() {
+    return this.props.children();
+  }
+}
+```
+你可以像这样使用这个组件:
+```javascript
+<Executioner>
+  {() => <h1>Hello World!</h1>}
+</Executioner>
+```
+这个特殊的例子并没有什么用处，但是他展示了这个想法。
+
+想象你不得不从服务器上抓取一些数据。你可以采用各种各样的方案，但是使用函数作为后代是一种可行的模式:
+```javascript
+<Fetch url="api.myself.com">
+  {(result) => <p>{result}</p>}
+</Fetch>
+```
+花费一分钟玩一下[这个demo](), 并且看是否可以明白它如何工作。
+
+不要担忧这超过你的理解范围。我想要的是，当你在野外看到这一切时，你并不感到惊讶。使用children，你可以做很多事情。
+
+### 操纵后代
+
+如果你看react官方文档，你讲看到这句话“children are an opaque data structur”。他们基本告诉你props.children
+可以是任何类型，例如数据，函数，对象，等等。因此你可以传递任何东西，你可以从不用关心他们。
+
+React提供了一些操纵children的辅助方法，使用这些方法可以很简单无疼地操作children。这些方法在React.children下。
+
+### 遍历后代
+
+React.children.map和React.children.forEach是两个最常用的辅助方法。他们像数组一样工作，除了他们是函数，对象或者其他东西的时候
+
+```javascript
+class IngoreFirstChild extends React.Component {
+  render () {
+    const children = this.props.children;
+    return (
+      <div>
+        {
+            React.Children.map(children, (child, i) => {
+              if ( i < 1 ) return;
+              return child;
+            })
+        }
+      </div>
+    );
+  }
+}
+```
+这个<IgnoreFirstChild\/>组件当map的时候，会忽略掉第一个，返回其他的
+```javascript
+<IgnoreFirstChild>
+  <h1>First</h1>
+  <h1>Second</h1>
+</IgnoreFirstChild>
+```
+![](http://mxstbr.blog/img/react-children-map.png)
+[(Live demo)](http://www.webpackbin.com/NyfgFQ2wz)
+
+下面这个例子，我们也可以使用this.props.children.map。但是如果一个人传递一个函数作为它的后代，会发生什么呢? this.props.children将不是一个数组而是一个函数。我们会遇到错误。
+![](http://mxstbr.blog/img/react-children-error.png)
+
+使用React.Children.map函数，不会遇到任何问题:
+```javascript
+<IgnoreFirstChild>
+  {() => <h1>First</h1>} // <- Ignored
+</IgnoreFirstChild>
+```
+
+### 统计后代数量
+
+因为this.props.children可能是任何类型，判断一个组件有多少个后代将会是一件很困难的事。如果传递一个字符串或者函数作为后代，那么将打破this.props.children.length的正常使用;
