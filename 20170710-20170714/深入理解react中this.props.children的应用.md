@@ -66,3 +66,42 @@ class Fullstop extends React.Component {
 ```
 无论你想传递那个孩子给这个组件，它总是显示“Hello world”, 其他什么都不做。
 > 注意：上面例子中的这个<code>\<h1></code>更像html的原始标签，总以“Hello World”渲染他们孩子。
+
+### 一切都可以被当做孩子
+
+在react中后代不一定都是组件，他们可以是任何东西。例如，我们可以传递给<code><Grid\/>组件一些文本作为它的后代，并且他也照常工作地很好。
+```javascript
+<Grid>Hello world</Grid>
+```
+![](http://mxstbr.blog/img/react-children-grid-string.png)
+[(Live demo)](http://www.webpackbin.com/N1FUPocvz)
+
+JSX将自动移除在一行收尾的空白以及空行。它还将字符串中文字的空白行压缩成一个空格。
+这意味下面的例子将渲染出同样的东西:
+```javascript
+<Grid>Hello world</Grid>
+<Grid>
+    Hello world!
+</Grid>
+<Grid>
+    Hello
+    world!
+</Grid>
+
+<Grid>
+
+    Hello world!
+</Grid>
+```
+
+你也可以混合多种类型的后代，同样也工作地很好:
+```javascript
+<Grid>
+Here is a row:
+<Row/>
+Here is another row:
+<Row/>
+</Grid>
+```
+![](http://mxstbr.blog/img/react-children-grid-mixed.png)
+[(Live demo)](http://www.webpackbin.com/E1IpLQ3PM)
