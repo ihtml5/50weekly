@@ -132,14 +132,14 @@ class Executioner extends React.Component {
 
 不要担忧这超过你的理解范围。我想要的是，当你在野外看到这一切时，你并不感到惊讶。使用children，你可以做很多事情。
 
-### 操纵后代
+### 操纵子元素
 
 如果你看react官方文档，你讲看到这句话“children are an opaque data structur”。他们基本告诉你props.children
 可以是任何类型，例如数据，函数，对象，等等。因此你可以传递任何东西，你可以从不用关心他们。
 
 React提供了一些操纵children的辅助方法，使用这些方法可以很简单无疼地操作children。这些方法在React.children下。
 
-### 遍历后代
+### 遍历子元素
 
 React.children.map和React.children.forEach是两个最常用的辅助方法。他们像数组一样工作，除了他们是函数，对象或者其他东西的时候
 
@@ -180,7 +180,7 @@ class IngoreFirstChild extends React.Component {
 </IgnoreFirstChild>
 ```
 
-### 统计后代数量
+### 统计子元素数量
 
 因为this.props.children可能是任何类型，判断一个组件有多少个后代将会是一件很困难的事。如果传递一个字符串或者函数作为后代，那么将打破this.props.children.length的正常使用;
 我们有一个后代，“Hello World”，但是.length相反却输出12!
@@ -212,7 +212,7 @@ Second!
 </ChildrenCounter>
 ```
 
-### 转化后代为一个数组
+### 转化子元素为一个数组
 
 作为最后的手段，上面没有任何方法适合你的需求，你可以使用React.Children.toArray转化你的后代为数组. 如果你需要排序他们，这种手段是非常有用的。
 ```javascript
@@ -233,9 +233,9 @@ Second!
 ![](http://mxstbr.blog/img/react-children-apples-bananas-oranges.png)
 [(Live demo)](http://www.webpackbin.com/NyE2TQhwz)
 
-### 强制只有一个后代
+### 强制只有一个子元素
 
-如果你回头看我们上面的<Executioner\/>组件，它期待只有一个后代被传递进来，并且这个后代必须是函数。
+如果你回头看我们上面的<Executioner\/>组件，它声明只有一个函数类型的子元素被传递进来。
 ```javascript
 class Executioner extends React.Component {
   render () {
@@ -259,7 +259,7 @@ class Executioner extends React.Component {
 ```
 这将返回在this.props.children中仅一个后代。如果有不只一个后代，它将扔出错误。把整个应用程序都磨成一个完美的程序，以避免懒惰的开发者试图破坏我们的组件。
 
-### 修改后代
+### 修改子元素
 
 我们可以将任意组件呈现为子元素，但是仍然从父类中控制它们而不是从我们渲染它们的组件中。为了证实这，我们假设有一个RadioGroup组件，它包含一组RadioButton组件（这个组件将渲染<input type="radio"在一个label标签中）。
 
