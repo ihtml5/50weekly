@@ -9,15 +9,15 @@ react的核心是组件。你可以像嵌套html标签那样嵌套react组件，
 
 + 子组件
   + 一切都是孩子
-  + 函数也可以作为一个孩子
-+ 操作孩子
-  + 遍历孩子
-  + 统计孩子个数
-  + 将chldren转化为数组
-  + 限制只有一个children
-+ 编辑children
-  + 改变children的属性
-  + 不可变拷贝元素
+  + 函数也可以作为一个子元素
++ 操纵子元素
+  + 遍历孩子
+  + 统计子元素数量
+  + 将子元素转化为数组
+  + 限制只有一个子元素
++ 编辑子元素
+  + 改变子元素的属性
+  + 不可变拷贝子元素
 + 总结
 
 ### 子组件
@@ -63,7 +63,7 @@ class Fullstop extends React.Component {
 无论你想传递那个孩子给这个组件，它总是显示“Hello world”, 其他什么都不做。
 > 注意：上面例子中的这个<code>\<h1></code>更像html的原始标签，总以“Hello World”渲染他们孩子。
 
-### 一切都可以被当做孩子
+### 一切都可以被当做子元素
 
 在react中后代不一定都是组件，他们可以是任何东西。例如，我们可以传递给<code><Grid\/>组件一些文本作为它的后代，并且他也照常工作地很好。
 ```javascript
@@ -102,9 +102,9 @@ Here is another row:
 ![](http://mxstbr.blog/img/react-children-grid-mixed.png)
 [(Live demo)](http://www.webpackbin.com/E1IpLQ3PM)
 
-### 把函数作为后代
+### 把函数作为子元素
 
-为哦们可以传递任何javascript表达式作为后代。这包括函数。
+我们可以传递任何javascript表达式作为子元素。这包括函数。
 
 为了说明这是什么样子，这是一个组件，它执行一个传递给它的函数:
 ```javascript
@@ -122,7 +122,7 @@ class Executioner extends React.Component {
 ```
 这个特殊的例子并没有什么用处，但是他展示了这个想法。
 
-想象你不得不从服务器上抓取一些数据。你可以采用各种各样的方案，但是使用函数作为后代是一种可行的模式:
+想象你不得不从服务器上抓取一些数据。你可以采用各种各样的方案，但是使用函数作为子元素是一种可行的模式:
 ```javascript
 <Fetch url="api.myself.com">
   {(result) => <p>{result}</p>}
@@ -130,14 +130,14 @@ class Executioner extends React.Component {
 ```
 花费一分钟玩一下[这个demo](), 并且看是否可以明白它如何工作。
 
-不要担忧这超过你的理解范围。我想要的是，当你在野外看到这一切时，你并不感到惊讶。使用children，你可以做很多事情。
+不要担忧这超过你的理解范围。我想要的是，当你在野外看到这一切时，你并不感到惊讶。使用子元素，你可以做很多事情。
 
 ### 操纵子元素
 
 如果你看react官方文档，你讲看到这句话“children are an opaque data structur”。他们基本告诉你props.children
 可以是任何类型，例如数据，函数，对象，等等。因此你可以传递任何东西，你可以从不用关心他们。
 
-React提供了一些操纵children的辅助方法，使用这些方法可以很简单无疼地操作children。这些方法在React.children下。
+React提供了一些操纵子元素的辅助方法，使用这些方法可以很简单无疼地操作子元素。这些方法在React.children下。
 
 ### 遍历子元素
 
@@ -170,7 +170,7 @@ class IngoreFirstChild extends React.Component {
 ![](http://mxstbr.blog/img/react-children-map.png)
 [(Live demo)](http://www.webpackbin.com/NyfgFQ2wz)
 
-下面这个例子，我们也可以使用this.props.children.map。但是如果一个人传递一个函数作为它的后代，会发生什么呢? this.props.children将不是一个数组而是一个函数。我们会遇到错误。
+下面这个例子，我们也可以使用this.props.children.map。但是如果一个人传递一个函数作为它的子元素，会发生什么呢? this.props.children将不是一个数组而是一个函数。我们会遇到错误。
 ![](http://mxstbr.blog/img/react-children-error.png)
 
 使用React.Children.map函数，不会遇到任何问题:
@@ -182,7 +182,7 @@ class IngoreFirstChild extends React.Component {
 
 ### 统计子元素数量
 
-因为this.props.children可能是任何类型，判断一个组件有多少个后代将会是一件很困难的事。如果传递一个字符串或者函数作为后代，那么将打破this.props.children.length的正常使用;
+因为this.props.children可能是任何类型，判断一个组件有多少个子元素将会是一件很困难的事。如果传递一个字符串或者函数作为子元素，那么将打破this.props.children.length的正常使用;
 我们有一个后代，“Hello World”，但是.length相反却输出12!
 
 那是为什么我们有React.Children.count:
@@ -193,7 +193,7 @@ class ChildrenCounter extends React.Component {
   }
 }
 ```
-它将返回后代的数量无论他们是什么类型:
+不管子元素是什么类型它都可以准确地返回子元素的数量:
 ```javascript
 // Renders "1"
 <ChildrenCounter>
@@ -214,7 +214,7 @@ Second!
 
 ### 转化子元素为一个数组
 
-作为最后的手段，上面没有任何方法适合你的需求，你可以使用React.Children.toArray转化你的后代为数组. 如果你需要排序他们，这种手段是非常有用的。
+作为最后的手段，上面没有任何方法适合你的需求，你可以使用React.Children.toArray转化你的子元素为数组. 如果你需要排序他们，这种手段是非常有用的。
 ```javascript
  class Sort extends React.Component {
    render () {
