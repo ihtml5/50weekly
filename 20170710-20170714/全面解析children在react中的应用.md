@@ -356,4 +356,4 @@ renderChildren() {
 ![](http://mxstbr.blog/img/react-children-radio-done.png)
 
 ### 总结
-子元素让React组件感觉像标记，而不是脱节的实体。使用JavaScript的强大功能和一些响应帮助函数，我们可以与它们一起创建声明性api，使我们的生活更轻松
+子元素让React组件感觉像标记，而不是脱节的实体。使用JavaScript的强大功能和一些Rect辅助函数，我们可以与它们一起创建声明性api，使我们的生活更轻松
