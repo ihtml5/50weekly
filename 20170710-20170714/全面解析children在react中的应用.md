@@ -184,3 +184,177 @@ class IngoreFirstChild extends React.Component {
 ### 统计后代数量
 
 因为this.props.children可能是任何类型，判断一个组件有多少个后代将会是一件很困难的事。如果传递一个字符串或者函数作为后代，那么将打破this.props.children.length的正常使用;
+我们有一个后代，“Hello World”，但是.length相反却输出12!
+
+那是为什么我们有React.Children.count:
+```javascript
+class ChildrenCounter extends React.Component {
+  render () {
+    return <p>React.Children.count(this.props.children)</p>
+  }
+}
+```
+它将返回后代的数量无论他们是什么类型:
+```javascript
+// Renders "1"
+<ChildrenCounter>
+  Second!
+</ChildrenCounter>
+// Renders "2"
+<ChildrenCounter>
+  <p>First</p>
+  <ChildComponent/>
+</ChildrenCounter>
+// Renders "3“
+<ChildrenCounter>
+{() => <h1>First</h1>}
+Second!
+<p>Third!</p>
+</ChildrenCounter>
+```
+
+### 转化后代为一个数组
+
+作为最后的手段，上面没有任何方法适合你的需求，你可以使用React.Children.toArray转化你的后代为数组. 如果你需要排序他们，这种手段是非常有用的。
+```javascript
+ class Sort extends React.Component {
+   render () {
+     const children = React.Children.toArray(this.props.children);
+     return <p>{children.sort().join(' ')}</p>
+   }
+ }
+
+ <Sort>
+ // 我们用表达式容器来确认我们的字符串是被当做三个孩子传递进去的，而不是一个字符串
+ {'bananas'}{'oranges'}{'apples'}
+ </Sort>
+```
+以上的字符串渲染出排序后的字符串
+
+![](http://mxstbr.blog/img/react-children-apples-bananas-oranges.png)
+[(Live demo)](http://www.webpackbin.com/NyE2TQhwz)
+
+### 强制只有一个后代
+
+如果你回头看我们上面的<Executioner\/>组件，它期待只有一个后代被传递进来，并且这个后代必须是函数。
+```javascript
+class Executioner extends React.Component {
+  render () {
+    return this.props.children();
+  }
+}
+```
+我们可以使用propTypes来尝试限制它这样，代码如下:
+```javascript
+Executioner.propTypes = {
+  children: React.PropTypes.func.isRequired
+}
+```
+这将使控制台输出一段信息，这些信息一部分会被开发者忽略掉，相反，我们可以使用React.Children.only在我们的render方法中!
+```javascript
+class Executioner extends React.Component {
+  render () {
+    return React.Children.only(this.props.children)()
+  }
+}
+```
+这将返回在this.props.children中仅一个后代。如果有不只一个后代，它将扔出错误。把整个应用程序都磨成一个完美的程序，以避免懒惰的开发者试图破坏我们的组件。
+
+### 修改后代
+
+我们可以将任意组件呈现为子元素，但是仍然从父类中控制它们而不是从我们渲染它们的组件中。为了证实这，我们假设有一个RadioGroup组件，它包含一组RadioButton组件（这个组件将渲染<input type="radio"在一个label标签中）。
+
+这个RadioButton并不从RadioGroup这个组件中渲染，而是被当作一个子元素，这意味着在我们的程序中可以有这样的代码:
+···javascript
+render () {
+  return (
+    <RadioGroup>
+      <RadioButton value="first"> First </RadioButton>
+      <RadioButton value="second"> Second </RadioButton>
+      <RadioButton value="third"> Third</RadioButton>
+    </RadioGroup>
+  );
+}
+```
+上免代码有一个问题。这个input并没有在一个分组里，导致出现下面的现象
+
+![](http://mxstbr.blog/img/react-children-radio-bug.png)
+
+[(Live demo)](http://www.webpackbin.com/Vk-Vt_VawM)
+
+为了把这些input标签放到同一个组里，需要他们有同样的name属性。我们当然可以遍历，然后给每一个单独的RadioButton分配一个name属性。
+```javascript
+<RadioGroup>
+  <RadioButon name="g1" value="first">First</RadioButton>
+  <RadioButton name="g1" value="second">Second</RadioButton>
+  <RadioButton name="g1" value="third">third</RadioButton> 
+</RadioGroup>
+```
+但那是一个乏味和错误的倾向。我们拥有所有javascript的力量。我们能不能用它来告诉我们的RadioGroup我们想让所有的子元素得到它的名字并且让它自动地处理它?
+
+### 改变子元素的属性
+
+在我们RadioGroup组件中，我们将增加一个绑定过的方法，叫renderChildren，在哪我们将编辑子元素的属性:
+```javascript
+class RadioGroup extends React.Component {
+  constructor() {
+    super();
+    this.renderChildren = this.renderChildren.bind(this);
+  }
+  renderChildren() {
+    return this.props.children;
+  }
+  render () {
+    return (
+      <div className="group">
+        {this.renderChildren()}
+      </div>
+    );
+  }
+}
+```
+
+让我们开始遍历子元素，来得到每个独立的子元素:
+```javascript
+renderChildren() {
+  return React.Children.map(this.props.children, child => {
+    return child;
+  })
+}
+```
+我们如何可以编辑他们的属性呢？
+
+### 不可变复制元素
+
+这是今天最后一个辅助方法所起的作用。正如名字提示的，React.cloneElement复制一个元素。我们可以传递我们想复制的元素作为第一个参数 并且在第二个参数中传递我们想设置的属性:
+```javascript
+const cloned = React.cloneElement(element, {
+  new: 'yes!'
+})
+```
+
+这个cloned元素现在已经有了新属性new并被设置为'yes!'.
+
+下面是我们完成RadioGroup的实际逻辑。我们复制每个元素，并设置复制生成的元素this.props.name:
+```javascript
+renderChildren() {
+  return React.Children.map(this.props.children, child => {
+    return React.cloneElement(child, {
+      name: this.props.name
+    })
+  })
+}
+```
+
+最后一步是给我们的RadioGroup组件设置一个唯一name属性值:
+```javascript
+<RadioGroup name="g1">
+  <RadioButton value="first">First</RadioButton>
+  <RadioButton value="second">Second</RadioButton>
+  <RadioButton value="three"> Three</RadioButton>
+</RadioGroup>
+```
+![](http://mxstbr.blog/img/react-children-radio-done.png)
+
+### 总结
+子元素让React组件感觉像标记，而不是脱节的实体。使用JavaScript的强大功能和一些响应帮助函数，我们可以与它们一起创建声明性api，使我们的生活更轻松
