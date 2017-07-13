@@ -264,7 +264,7 @@ class Executioner extends React.Component {
 我们可以将任意组件呈现为子元素，但是仍然从父类中控制它们而不是从我们渲染它们的组件中。为了证实这，我们假设有一个RadioGroup组件，它包含一组RadioButton组件（这个组件将渲染<input type="radio"在一个label标签中）。
 
 这个RadioButton并不从RadioGroup这个组件中渲染，而是被当作一个子元素，这意味着在我们的程序中可以有这样的代码:
-···javascript
+```javascript
 render () {
   return (
     <RadioGroup>
@@ -275,7 +275,7 @@ render () {
   );
 }
 ```
-上免代码有一个问题。这个input并没有在一个分组里，导致出现下面的现象
+上面代码有一个问题。这个input并没有都在一个分组里，导致出现下面的现象
 
 ![](http://mxstbr.blog/img/react-children-radio-bug.png)
 
