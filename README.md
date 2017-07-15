@@ -5,11 +5,10 @@
 
 ### 说明
 
-1. 周刊关注react技术栈
-2. 性能优化
-3. 移动web实践
-4. 跨端react native实践等
-5. 全栈开发
+1. react生态包括react，redux，react-router,react-native等
+2. 移动web实践
+3. 构建工具如webpack
+4. node.js相关
 
 
 
