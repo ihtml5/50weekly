@@ -1,7 +1,7 @@
 # weekly
 发现有价值的前端资源
 
-### [当前周 20170828-20170903](https://github.com/ihtml5/weekly/blob/master/20170828-20170903.md)
+### [当前周20170904-20170910](https://github.com/ihtml5/weekly/blob/master/20170904-20170910.md)
 
 ### 说明
 
