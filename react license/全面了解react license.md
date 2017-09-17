@@ -2,6 +2,7 @@
 1. [React License](https://github.com/facebook/react/blob/master/LICENSE)
 2. [Explaining React's license](https://code.facebook.com/posts/112130496157735/explaining-react-s-license/)
 3. [Open Source License FAQ](https://code.facebook.com/pages/850928938376556)
+4. [Updating Our Open Source Patent Grant](https://code.facebook.com/posts/1639473982937255/updating-our-open-source-patent-grant/)
 
 ### Github上相关issues
 
