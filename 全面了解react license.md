@@ -20,4 +20,5 @@
 
 1. [Dan Abramov](https://github.com/gaearon)
 > Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
+
 ![](./gaearon.png)
