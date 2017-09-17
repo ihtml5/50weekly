@@ -4,6 +4,7 @@
 3. [Open Source License FAQ](https://code.facebook.com/pages/850928938376556)
 4. [Updating Our Open Source Patent Grant](https://code.facebook.com/posts/1639473982937255/updating-our-open-source-patent-grant/)
 > Facebook提出BSD+ PATENT License的目的是防范不良专利起诉，相比于其他公司，facebook将其用于核心产品的技术开源，没有专利保护，每年将会面临大量不良专利诉讼。
+
 >  Open Source License FAQ 解答了关于大家专利授权方面的疑惑
 > 1. 如果我创建一个竞争产品，Facebook BSD +专利许可证中的附加专利授权是否终止？
 > **不会**
