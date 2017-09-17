@@ -26,11 +26,11 @@
 
 ![](./gaearon.png)
 
-2. [流形]
-> 《深入React技术栈》作者
+2. [流形](https://www.zhihu.com/people/arcthur)
+> 现任阿里巴巴数据技术与产品部前端团队负责人，专注在React、数据可视化、Node等领域，《深入 React 技术栈》作者，知乎专栏《pure render》创办人
 
 ![](./reactbook.png)
 
-3. [程墨]
+3. [程墨](https://www.zhihu.com/people/morgancheng)
 > 《深入浅出React和Redux》作者
 ![](./reactbook2.png)
