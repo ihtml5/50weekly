@@ -32,3 +32,7 @@
 > 《深入React技术栈》作者
 
 ![](./reactbook.png)
+
+3. [程墨]
+> 《深入浅出React和Redux》作者
+![]('./react book2.png)
