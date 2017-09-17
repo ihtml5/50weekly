@@ -1,5 +1,5 @@
 ### React
-react是用于构建用户界面的 JAVASCRIPT 库， 2013年被facebook开源, 世界上许多著名公司都采用该框架开发产品包microsoft，airbnb, 国内包括百度，阿里巴巴，腾讯，知乎等，使用非常广泛，近期随着[react16](https://github.com/facebook/react/issues/10294#issuecomment-330087866)的即将完成，react社区又迎来了一波新的增长，但是react license问题却再次困扰着社区。
+react是用于构建用户界面的 JAVASCRIPT 库， 2013年被facebook开源, 世界上许多著名公司都采用该框架开发产品, 包括microsoft，airbnb, 国内包括百度，阿里巴巴，腾讯，知乎等，使用非常广泛。近期随着[react16](https://github.com/facebook/react/issues/10294#issuecomment-330087866)的即将完成，react社区又即将迎来了一波新的增长，但是随着react地广泛使用，各大公司越来越关注react license问题，虽然facebook多次在github和官方网站上做出解释，但不同的公司和组织有自己的考虑。
 
 #### 相关事件
 
