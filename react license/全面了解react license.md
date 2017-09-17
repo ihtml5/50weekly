@@ -2,7 +2,7 @@
 用于构建用户界面的 JAVASCRIPT 库
 
 1. [React offical site](http://facebook.github.io/react)
-2. [React中文文档](https://discountry.github.io/react/)
+2. [React中文文档](https://doc.react-china.org/)
 3. [React github repo](http://www.github.com/facebook/react)
 
 ### 官方对react license的表述
