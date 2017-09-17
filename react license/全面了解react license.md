@@ -7,12 +7,17 @@
 
 >  Open Source License FAQ 解答了关于大家专利授权方面的疑惑
 > 1. 如果我创建一个竞争产品，Facebook BSD +专利许可证中的附加专利授权是否终止？
+
 > **不会**
 > 2. 如果我对Facebook进行专利侵权以外的其他专利诉讼，Facebook BSD +专利授权中的附加专利授权是否终止？
+
 > **不会**
 > 3. Facebook的BSD +专利许可证中的附加专利授权如果首先针对专利侵权我的诉讼终止，那么我就会针对Facebook回应专利反诉？
+
 > **不会，除非您的专利反诉与Facebook的BSD +专利许可证授权的Facebook软件有关。**
+
 > 4. 在Facebook BSD +专利许可证中终止额外的专利授权会导致版权许可也终止？
+
 > **不会**
 
 ### Github上相关issues
