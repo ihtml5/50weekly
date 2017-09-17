@@ -1,5 +1,15 @@
 ### React
-用于构建用户界面的 JAVASCRIPT 库
+react是用于构建用户界面的 JAVASCRIPT 库， 2013年被facebook开源。 2017.9.15日，[react 16 rc3](https://github.com/facebook/react/issues/10294#issuecomment-330087866)推出，随着react16的即将完成，react社区都在欣喜等待，但是react license问题再次困扰着社区，特别是
+
+2017.4月 Apache软件基金会法律事务委员会已经[宣布](https://issues.apache.org/jira/browse/LEGAL-303)，所谓的“Facebook BSD +专利许可”不再被允许用作Apache项目的直接依赖。
+
+2017.9.14日 wordpress的母公司发博文宣布考虑由于react license问题将移除react的使用
+
+2017.9.16日 小道消息国内百度公司宣布将在用户端产品中禁止使用react和react native，已经使用相关技术的产品，半年内迁移到[vue](http://www.vuejs.org)或者自研的[san](https://github.com/ecomfe/san)
+
+
+
+
 
 1. [React offical site](http://facebook.github.io/react)
 2. [React中文文档](https://doc.react-china.org/)
