@@ -10,6 +10,7 @@
 
 ###  国外社区相关讨论
 1. [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5)
+2. [On React and WordPress](https://ma.tt/2017/09/on-react-and-wordpress/)
 
 ### 国内相关讨论
 
@@ -21,16 +22,21 @@
 
 ### 国内外知名React开发者谈React license
 
-1. [Dan Abramov](https://github.com/gaearon)
+1. [Sebastian Markbåge](https://github.com/sebmarkbage)
+> facebook 科学家 tc39成员 react团队负责人
+
+![](./sebmarkbage.png)
+
+2. [Dan Abramov](https://github.com/gaearon)
 > Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
 
 ![](./gaearon.png)
 
-2. [流形](https://www.zhihu.com/people/arcthur)
+3. [流形](https://www.zhihu.com/people/arcthur)
 > 现任阿里巴巴数据技术与产品部前端团队负责人，专注在React、数据可视化、Node等领域，《深入 React 技术栈》作者，知乎专栏《pure render》创办人
 
 ![](./reactbook.png)
 
-3. [程墨](https://www.zhihu.com/people/morgancheng)
+4. [程墨](https://www.zhihu.com/people/morgancheng)
 > 《深入浅出React和Redux》作者
 ![](./reactbook2.png)
