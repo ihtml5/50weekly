@@ -13,3 +13,9 @@
 2. [如何看待百度要求内部全面停止使用React / React Native?](https://www.zhihu.com/question/65437198/answer/231116042)
 3. [法律角度你可以放心使用React吗？](https://zhuanlan.zhihu.com/p/27990414)
 4. [React 路/粉/黑 都该了解的 React license 争议](https://juejin.im/entry/59a55d27f265da248808ae39)
+
+
+### 国内外知名React开发者谈React license
+
+1. [Dan Abramov](https://github.com/gaearon)
+> Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
