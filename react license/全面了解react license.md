@@ -33,4 +33,4 @@
 
 3. [程墨]
 > 《深入浅出React和Redux》作者
-![]('./reactbook2.png)
+![](./reactbook2.png)
