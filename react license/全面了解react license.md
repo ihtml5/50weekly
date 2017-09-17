@@ -40,3 +40,9 @@
 4. [程墨](https://www.zhihu.com/people/morgancheng)
 > 《深入浅出React和Redux》作者
 ![](./reactbook2.png)
+
+#### React相关回退方案
+
+1. [preact](https://github.com/developit/preact)
+2. [react-lite](https://github.com/Lucifier129/react-lite)
+3. [anu](https://github.com/RubyLouvre/anu)
