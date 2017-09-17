@@ -8,6 +8,9 @@
 
 1. [Update React license FAQ/update license itself ](https://github.com/facebook/react/issues/10719)
 
+###  国外社区相关讨论
+1. [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5)
+
 ### 国内相关讨论
 
 1. [阿里还会使用react吗？](https://www.zhihu.com/question/65446071/answer/231113168)
