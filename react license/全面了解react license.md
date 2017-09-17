@@ -3,11 +3,11 @@ react是用于构建用户界面的 JAVASCRIPT 库， 2013年被facebook开源, 
 
 #### 相关事件
 
-**2017.4月** Apache软件基金会法律事务委员会已经[宣布](https://issues.apache.org/jira/browse/LEGAL-303)，所谓的“Facebook BSD +专利许可”不再被允许用作Apache项目的直接依赖。
+**2017.4月** Apache软件基金会法律事务委员会[宣布](https://issues.apache.org/jira/browse/LEGAL-303)，所谓的“Facebook BSD +专利许可”不再被允许用作Apache项目的直接依赖。
 
-**2017.9.14日** wordpress的母公司发博文宣布考虑由于react license问题将移除react的使用
+**2017.9.14日** wordpress的母公司发博文宣布由于react license问题将移除react的使用
 
-**2017.9.16日** 小道消息国内百度公司宣布将在用户端产品中禁止使用react和react native，已经使用相关技术的产品，半年内迁移到[vue](http://www.vuejs.org)或者自研的[san](https://github.com/ecomfe/san)
+**2017.9.16日** 百度公司宣布将在用户端产品中禁止使用react和react native，已经使用相关技术的产品，半年内迁移到[vue](http://www.vuejs.org)或者自研的[san](https://github.com/ecomfe/san)
 
 
 
