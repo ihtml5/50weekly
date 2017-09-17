@@ -1,9 +1,7 @@
 ### 官方对react license的表述
 1. [React License](https://github.com/facebook/react/blob/master/LICENSE)
 2. [Explaining React's license](https://code.facebook.com/posts/112130496157735/explaining-react-s-license/)
-![](./intro.png)
 3. [Open Source License FAQ](https://code.facebook.com/pages/850928938376556)
-![](./faq.png)
 
 ### Github上相关issues
 
@@ -35,4 +33,4 @@
 
 3. [程墨]
 > 《深入浅出React和Redux》作者
-![]('./react book2.png)
+![]('./reactbook2.png)
