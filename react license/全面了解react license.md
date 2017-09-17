@@ -50,7 +50,7 @@
 ![](./sebmarkbage.png)
 
 2. [Dan Abramov](https://github.com/gaearon)
-> Working on @reactjs. Co-author of Redux and Create React App. Building tools for humans.
+> [redux](http://www.reduxjs.org)和[create-react-app](https://github.com/facebookincubator/create-react-app)作者，react核心团队成员，react社区极度活跃者
 
 ![](./gaearon.png)
 
