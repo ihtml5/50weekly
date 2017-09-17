@@ -3,10 +3,12 @@
 2. [Explaining React's license](https://code.facebook.com/posts/112130496157735/explaining-react-s-license/)
 ![](./intro.png)
 3. [Open Source License FAQ](https://code.facebook.com/pages/850928938376556)
+![](./faq.png)
 
 ### Github上相关issues
 
-1. [Update React license FAQ/update license itself ](https://github.com/facebook/react/issues/10719)
+1. [Consider re-licensing to AL v2.0, as RocksDB has just done](https://github.com/facebook/react/issues/10191)
+2. [Update React license FAQ/update license itself ](https://github.com/facebook/react/issues/10719)
 
 ###  国外社区相关讨论
 1. [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5)
