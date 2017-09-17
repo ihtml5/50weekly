@@ -31,4 +31,4 @@
 2. [流形]
 > 《深入React技术栈》作者
 
-![]('./reactbook.png)
+![](./reactbook.png)
