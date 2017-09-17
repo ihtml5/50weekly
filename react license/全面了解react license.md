@@ -43,6 +43,9 @@ react是用于构建用户界面的 JAVASCRIPT 库， 2013年被facebook开源�
 ###  国外社区相关讨论
 1. [The React license for founders and CTOs](https://medium.com/@ji/the-react-license-for-founders-and-ctos-b38d2538f3e5)
 2. [On React and WordPress](https://ma.tt/2017/09/on-react-and-wordpress/)
+3. [
+2003
+Apache Foundation bans use of Facebook BSD+Patents licensed libraries like React.js](https://www.reddit.com/r/programming/comments/6nnxir/apache_foundation_bans_use_of_facebook_bsdpatents/)
 
 ### 国内相关讨论
 
