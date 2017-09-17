@@ -63,7 +63,7 @@ react是用于构建用户界面的 JAVASCRIPT 库， 2013年被facebook开源�
 2. [Dan Abramov](https://github.com/gaearon)
 > [redux](http://www.reduxjs.org)和[create-react-app](https://github.com/facebookincubator/create-react-app)作者，react核心团队成员，react社区极度活跃者
 
-** 并不是react license的问题，而是人们对react license的不同解读，而采取的不同措施**
+**并不是react license的问题，而是人们对react license的不同解读，而采取的不同措施**
 
 ![](./gaearon.png)
 
