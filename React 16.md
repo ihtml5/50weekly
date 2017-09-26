@@ -1,7 +1,4 @@
----
-title: "React v16.0"
-author: acdlite
----
+**[原文](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)**
 
 我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**错误界限**](#更好的错误处理), [**portals**](#portals), 对[**custom DOM attributes**](#support-for-custom-dom-attributes)的支持, 优化[**服务端渲染**](#better-server-side-rendering), 减少[**文件大小**](#reduced-file-size).
 
@@ -45,7 +42,7 @@ render() {
 
 ### Portals
 
-Portals provide a first-class way to render children into a DOM node that exists outside the DOM hierarchy of the parent component.
+Portals 提供了一级类的方式来将子元素呈现到存在于父组件的DOM层次结构之外的DOM节点。
 
 ```js
 render() {
@@ -58,13 +55,13 @@ render() {
 }
 ```
 
-See a full example in the [documentation for portals](/react/docs/portals.html).
+看portals完整例子[portals文档](http://facebook.github.io/react/docs/portals.html).
 
-### Better server-side rendering
+### 更好的服务端渲染
 
-React 16 includes a completely rewritten server renderer. It's really fast. It supports **streaming**, so you can start sending bytes to the client faster. And thanks to a [new packaging strategy](#reduced-file-size) that compiles away `process.env` checks (Believe it or not, reading `process.env` in Node is really slow!), you no longer need to bundle React to get good server-rendering performance.
+React 16重写了服务端渲染。 现在它是相当快。 它支持**流**, 因此你可以更快地发送字节到客户端。并且多亏了[新打包策略](#减少文件体积)在编译阶段检查`process.env`(无论你相信与否， 在node里面读`process.env`是相当慢的!), 你不再需要打包react来获得更好的服务端渲染性能。
 
-Core team member Sasha Aickin wrote a [great article describing React 16's SSR improvements](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67). According to Sasha's synthetic benchmarks, server rendering in React 16 is roughly **three times faster** than React 15. "When comparing against React 15 with `process.env` compiled out, there’s about a 2.4x improvement in Node 4, about a 3x performance improvement in Node 6, and a full 3.8x improvement in the new Node 8.4 release. And if you compare against React 15 without compilation, React 16 has a full order of magnitude gain in SSR in the latest version of Node!" (As Sasha points out, please be aware that these numbers are based on synthetic benchmarks and may not reflect real-world performance.)
+核心团队成员Sasha Aickin 写了一篇[描述react16在服务端渲染方面提升](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)的文章. 按照Sasha's synthetic benchmarks, React 16中的服务器渲染大概比React 15快三倍。“当与React 15与”process.env“进行比较编译时，node4的性能提高了2.4倍，node的性能提升了3倍 6，并且在新的Node 8.4版本中全面的改善了3.8倍，而如果您在React 15中进行比较而不进行编译，则在最新版本的Node！中，React 16在SSR中有一个完整的数量级增益。 （正如Sasha Aickin指出的那样，请注意，这些数字是基于综合基准，可能不反映现实世界的表现。
 
 In addition, React 16 is better at hydrating server-rendered HTML once it reaches the client. It no longer requires the initial render to exactly match the result from the server. Instead, it will attempt to reuse as much of the existing DOM as possible. No more checksums! In general, we don't recommend that you render different content on the client versus the server, but it can be useful in some cases (e.g. timestamps).
 
