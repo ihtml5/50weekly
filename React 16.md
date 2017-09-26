@@ -3,7 +3,7 @@ title: "React v16.0"
 author: acdlite
 ---
 
-我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**error boundaries**](#better-error-handling), [**portals**](#portals), 对[**custom DOM attributes**](#support-for-custom-dom-attributes)的支持, 优化[**服务端渲染**](#better-server-side-rendering), 减少[**文件大小**](#reduced-file-size).
+我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**错误界限**](#更好的错误处理), [**portals**](#portals), 对[**custom DOM attributes**](#support-for-custom-dom-attributes)的支持, 优化[**服务端渲染**](#better-server-side-rendering), 减少[**文件大小**](#reduced-file-size).
 
 ### render支持返回fragments和字符串
 
