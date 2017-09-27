@@ -1,6 +1,6 @@
 **[原文](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)**
 
-我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**错误界限**](#更好的错误处理), [**portals**](#portals), 对[**custom DOM attributes**](#支持自定义属性)的支持, 优化[**服务端渲染**](#更好服务端渲染), 减小[**文件体积**](#减小文件体积).
+我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**错误界限**](#更好的错误处理), [**portals**](#portals), 对[**custom DOM attributes**](#支持自定义属性)的支持, 优化[**服务端渲染**](#更好的服务端渲染), 减小[**文件体积**](#减小文件体积).
 
 ### render支持返回fragments和字符串
 
