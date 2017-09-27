@@ -79,9 +79,9 @@ React 16重写了服务端渲染。 现在它是相当快。 它支持**流**, �
 * `react-dom` is 103.7 kb (32.6 kb gzipped), 之前 141 kb (42.9 kb gzipped).
 * `react` + `react-dom` is 109 kb (34.8 kb gzipped), 之前 161.7 kb (49.8 kb gzipped).
 
-整体上体积比之前版本减少了**32%,gizp体积减少了30%**
+整体上比之前版本**压缩体积减少了32%,gizp体积减少了30%**
 
-体积差异部分归因于包的变化。 React现在使用[Rollup]（https://rollupjs.org/）为每种不同的目标格式创建扁平的包，从而实现更小的体积和更好的运行时性能。 扁平打包还意味着，无论您使用Webpack，Browserify，还是UMD包还是任何其他系统，React打包后的体积都是一致的。
+体积差异部分归因于包的变化。 React现在使用[Rollup](https://rollupjs.org/)为每种不同的目标格式创建扁平的包，从而实现更小的体积和更好的运行时性能。 扁平打包还意味着，无论您使用Webpack，Browserify，还是UMD包还是任何其他系统，React打包后的体积都是一致的。
 
 
 ### MIT licensed
