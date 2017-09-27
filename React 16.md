@@ -1,6 +1,6 @@
 **[原文](https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html)**
 
-我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**错误界限**](#更好的错误处理), [**portals**](#portals), 对[**custom DOM attributes**](#support-for-custom-dom-attributes)的支持, 优化[**服务端渲染**](#better-server-side-rendering), 减少[**文件大小**](#reduced-file-size).
+我们很激动宣布React 16的发布!  其中提供了一些之前多次提出但尚未提供的功能，包括增加[**fragments**](#render支持返回fragments和字符串), [**错误界限**](#更好的错误处理), [**portals**](#portals), 对[**custom DOM attributes**](#支持自定义属性)的支持, 优化[**服务端渲染**](#更好服务端渲染), 减小[**文件体积**](#减小文件体积).
 
 ### render支持返回fragments和字符串
 
@@ -63,25 +63,29 @@ React 16重写了服务端渲染。 现在它是相当快。 它支持**流**, �
 
 核心团队成员Sasha Aickin 写了一篇[描述react16在服务端渲染方面提升](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)的文章. 按照Sasha's synthetic benchmarks, React 16中的服务器渲染大概比React 15快三倍。“当与React 15与”process.env“进行比较编译时，node4的性能提高了2.4倍，node的性能提升了3倍 6，并且在新的Node 8.4版本中全面的改善了3.8倍，而如果您在React 15中进行比较而不进行编译，则在最新版本的Node！中，React 16在SSR中有一个完整的数量级增益。 （正如Sasha Aickin指出的那样，请注意，这些数字是基于综合基准，可能不反映现实世界的表现。
 
-In addition, React 16 is better at hydrating server-rendered HTML once it reaches the client. It no longer requires the initial render to exactly match the result from the server. Instead, it will attempt to reuse as much of the existing DOM as possible. No more checksums! In general, we don't recommend that you render different content on the client versus the server, but it can be useful in some cases (e.g. timestamps).
+此外, React 16仅在客户端
+核心团队成员Sasha Aickin 写了一篇[描述react16在服务端渲染方面提升](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)的文章. 按照Sasha's synthetic benchmarks, React 16中的服务器渲染大概比React 15快三倍。“当与React 15与”process.env“进行比较编译时，node4的性能提高了2.4倍，node的性能提升了3倍 6，并且在新的Node 8.4版本中全面的改善了3.8倍，而如果您在React 15中进行比较而不进行编译，则在最新版本的Node！中，React 16在SSR中有一个完整的数量级增益。 （正如Sasha Aickin指出的那样
 
-See the [documentation for `ReactDOMServer`](/react/docs/react-dom-server.html) for more details.
+此外，React 16更好地在服务器呈现的HTML一旦到达客户端时进行注水。 它不再需要初始渲染与服务器的结果完全匹配。 相反，它将尝试尽可能重用现有的DOM。 没有更多的校验和！ 一般来说，我们不建议您在客户端和服务器上呈现不同的内容，但在某些情况下（例如时间戳）可能会有用。
 
-### Support for custom DOM attributes
+看[`ReactDOMServer`文档](http://facebook.github.io/react/docs/react-dom-server.html)为更多细节。
 
-Instead of ignoring unrecognized HTML and SVG attributes, React will now [pass them through to the DOM](https://facebook.github.io/react/blog/2017/09/08/dom-attributes-in-react-16.html). This has the added benefit of allowing us to get rid of most of React's attribute whitelist, resulting in reduced file sizes.
+### 支持自定义属性
 
-### Reduced file size
+与忽略不能识别的html和svg属性相反，React现在将[传递他们给dom](https://facebook.github.io/react/blog/2017/09/08/dom-attributes-in-react-16.html).这有额外的好处，允许我们摆脱React的大多数属性白名单，从而减少文件大小。
 
-Despite all these additions, React 16 is actually **smaller** compared to 15.6.1!
+### 减小文件体积
 
-* `react` is 5.3 kb (2.2 kb gzipped), down from 20.7 kb (6.9 kb gzipped).
-* `react-dom` is 103.7 kb (32.6 kb gzipped), down from 141 kb (42.9 kb gzipped).
-* `react` + `react-dom` is 109 kb (34.8 kb gzipped), down from 161.7 kb (49.8 kb gzipped).
+尽管增加了一些新功能，然而事实上react 16确是比15.6.1更小!
 
-That amounts to a combined **32% size decrease compared to the previous version (30% post-gzip)**.
+* `react` is 5.3 kb (2.2 kb gzipped), 之前 20.7 kb (6.9 kb gzipped).
+* `react-dom` is 103.7 kb (32.6 kb gzipped), 之前 141 kb (42.9 kb gzipped).
+* `react` + `react-dom` is 109 kb (34.8 kb gzipped), 之前 161.7 kb (49.8 kb gzipped).
 
-The size difference is partly attributable to a change in packaging. React now uses [Rollup](https://rollupjs.org/) to create flat bundles for each of its different target formats, resulting in both size and runtime performance wins. The flat bundle format also means that React's impact on bundle size is roughly consistent regardless of how your ship your app, whether it's with Webpack, Browserify, the pre-built UMD bundles, or any other system.
+整体上体积比之前版本减少了**32%,gizp体积减少了30%**
+
+体积差异部分归因于包的变化。 React现在使用[Rollup]（https://rollupjs.org/）为每种不同的目标格式创建扁平的包，从而实现更小的体积和更好的运行时性能。 扁平打包还意味着，无论您使用Webpack，Browserify，还是UMD包还是任何其他系统，React打包后的体积都是一致的。
+
 
 ### MIT licensed
 
