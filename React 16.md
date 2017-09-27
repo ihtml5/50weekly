@@ -63,12 +63,9 @@ React 16重写了服务端渲染。 现在它是相当快。 它支持**流**, �
 
 核心团队成员Sasha Aickin 写了一篇[描述react16在服务端渲染方面提升](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)的文章. 按照Sasha's synthetic benchmarks, React 16中的服务器渲染大概比React 15快三倍。“当与React 15与”process.env“进行比较编译时，node4的性能提高了2.4倍，node的性能提升了3倍 6，并且在新的Node 8.4版本中全面的改善了3.8倍，而如果您在React 15中进行比较而不进行编译，则在最新版本的Node！中，React 16在SSR中有一个完整的数量级增益。 （正如Sasha Aickin指出的那样，请注意，这些数字是基于综合基准，可能不反映现实世界的表现。
 
-此外, React 16仅在客户端
-核心团队成员Sasha Aickin 写了一篇[描述react16在服务端渲染方面提升](https://medium.com/@aickin/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67)的文章. 按照Sasha's synthetic benchmarks, React 16中的服务器渲染大概比React 15快三倍。“当与React 15与”process.env“进行比较编译时，node4的性能提高了2.4倍，node的性能提升了3倍 6，并且在新的Node 8.4版本中全面的改善了3.8倍，而如果您在React 15中进行比较而不进行编译，则在最新版本的Node！中，React 16在SSR中有一个完整的数量级增益。 （正如Sasha Aickin指出的那样
-
 此外，React 16更好地在服务器呈现的HTML一旦到达客户端时进行注水。 它不再需要初始渲染与服务器的结果完全匹配。 相反，它将尝试尽可能重用现有的DOM。 没有更多的校验和！ 一般来说，我们不建议您在客户端和服务器上呈现不同的内容，但在某些情况下（例如时间戳）可能会有用。
 
-看[`ReactDOMServer`文档](http://facebook.github.io/react/docs/react-dom-server.html)为更多细节。
+看[`ReactDOMServer`文档](http://facebook.github.io/react/docs/react-dom-server.html)了解更多细节。
 
 ### 支持自定义属性
 
