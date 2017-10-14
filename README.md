@@ -5,7 +5,7 @@ Find valuable front-end resources
 
 ### intro
 
-1. react ecosystem include react，redux，react-router,react-native等
+1. react ecosystem include react，redux，react-router,react-native etc
 2. mobile web pratice
 3. build tool webpack
 4. node.js
