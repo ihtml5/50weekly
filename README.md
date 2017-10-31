@@ -1,7 +1,7 @@
 # weekly
 Find valuable front-end resources
 
-### [current week 20171023-20171029](https://github.com/ihtml5/weekly/blob/master/20171023-20171029.md)
+### [current week 20171030-20171105](https://github.com/ihtml5/weekly/blob/master/20171030-20171105.md)
 
 ### intro
 
