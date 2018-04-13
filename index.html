@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>T.E.S.T</title>
+    <link rel="stylesheet" type="text/css" href="http://mat1.gtimg.com/pingjs/js/tnfe/libs/css/bootstrap/3.3.6/bootstrap.min.css"
+    />
+    <style>
+        html,
+        body {
+            font-size: 14px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <label class="scheme">
+        qqnews://article_9527?nm=20180404002828&iscomment=0&articletype=0
+    </label>
+    <div></div>
+    <button type="button" class="btn btn-danger">点击测试跳转</button>
+</body>
+<script src="http://mat1.gtimg.com/pingjs/js/tnfe/libs/jq/1.8.3/jquery.min.js"></script>
+<!-- <script src="./opennewsapp.js"></script> -->
+<script src="http://mat1.gtimg.com/pingjs/js/tnfe/libs/opennewsapp.js"></script>
+<script>
+    $('.btn').click(function () {
+        var scheme = $('.scheme').text();
+        console.log('qqnews://article_9527?nm=20180404002828&iscomment=0&articletype=0');
+        OpenNewsApp.open(scheme);
+    });
+</script>
+
+</html>
