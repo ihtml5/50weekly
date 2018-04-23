@@ -35,12 +35,12 @@
 21. [全面了解react license](https://github.com/ihtml5/weekly/blob/master/react%20license/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3react%20license.md)
 ### 性能优化
 
-1. [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
-2. [Dynamic import()](https://developers.google.com/web/updates/2017/11/dynamic-import)
-3. [React Patterns](https://reacttraining.com/patterns/)
-4. [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+1. [javascript性能分析](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+2. [动态导入介绍](https://developers.google.com/web/updates/2017/11/dynamic-import)
+3. [React设计模式](https://reacttraining.com/patterns/)
+4. [Pinterest渐进式web性能优化实践](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 5. [React应用在产品环境下的性能优化](http://benweizhu.github.io/blog/2017/05/12/react-redux-production-optimisation/)
-6. [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+6. [Tinder渐进式web性能优化实践](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 7. [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
 8. [Passive event listeners](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md#feature-detection)
 
