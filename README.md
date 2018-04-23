@@ -28,3 +28,6 @@
 18. [advanced-react-patterns](https://github.com/leanjscom/advanced-react-patterns)
 19. [什么是React Call Return?](https://zhuanlan.zhihu.com/p/30915829)
 20. [Twitter Lite以及大规模的高性能React渐进式网络应用](http://blog.csdn.net/neal1991/article/details/70193602)
+
+### URL Schemes
+1. [URL Schemes 使用详解](https://www.jianshu.com/p/d3185c70cc44)
