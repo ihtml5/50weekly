@@ -28,6 +28,15 @@
 18. [advanced-react-patterns](https://github.com/leanjscom/advanced-react-patterns)
 19. [什么是React Call Return?](https://zhuanlan.zhihu.com/p/30915829)
 20. [Twitter Lite以及大规模的高性能React渐进式网络应用](http://blog.csdn.net/neal1991/article/details/70193602)
+### 性能优化
+
+1. [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
+2. [Dynamic import()](https://developers.google.com/web/updates/2017/11/dynamic-import)
+3. [React Patterns](https://reacttraining.com/patterns/)
+4. [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
+5. [React应用在产品环境下的性能优化](http://benweizhu.github.io/blog/2017/05/12/react-redux-production-optimisation/)
+6. [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+7. [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
 
 ### URL Schemes
 1. [URL Schemes 使用详解](https://www.jianshu.com/p/d3185c70cc44)
