@@ -7,6 +7,10 @@
 + 构建工具包括webpack
 + nodejs
 
+### 贡献指南
++ fork本项目
++ 发起pr
+
 ### React
 1. [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
 2. [Challenging the Flux architecture](https://medium.com/@raul.mihaila/challenging-the-flux-architecture-2838152a0f8f)
