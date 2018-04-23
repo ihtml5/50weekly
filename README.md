@@ -37,6 +37,7 @@
 5. [React应用在产品环境下的性能优化](http://benweizhu.github.io/blog/2017/05/12/react-redux-production-optimisation/)
 6. [A Tinder Progressive Web App Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
 7. [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
+8. [Passive event listeners](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md#feature-detection)
 
 ### URL Schemes
 1. [URL Schemes 使用详解](https://www.jianshu.com/p/d3185c70cc44)
