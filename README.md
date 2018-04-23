@@ -32,6 +32,7 @@
 18. [advanced-react-patterns](https://github.com/leanjscom/advanced-react-patterns)
 19. [什么是React Call Return?](https://zhuanlan.zhihu.com/p/30915829)
 20. [Twitter Lite以及大规模的高性能React渐进式网络应用](http://blog.csdn.net/neal1991/article/details/70193602)
+21. [全面了解react license](https://github.com/ihtml5/weekly/blob/master/react%20license/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3react%20license.md)
 ### 性能优化
 
 1. [The Cost Of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
