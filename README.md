@@ -1,14 +1,11 @@
 # weekly
-Find valuable front-end resources
+发现有价值的前端资源
 
-### [current week 20171030-20171105](https://github.com/ihtml5/weekly/blob/master/20171030-20171105.md)
-
-### intro
-
-1. react ecosystem include react，redux，react-router,react-native etc
-2. mobile web pratice
-3. build tool webpack
-4. node.js
+### 本周刊囊括一下内容
++ react生态包括react, redux, react-router, react-native等
++ 移动web
++ 构建工具包括webpack
++ nodejs
 
 
 
