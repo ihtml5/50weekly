@@ -12,7 +12,6 @@
 + 发起pr
 
 ### 第一周
-#### React
 + [在react中如何构建组件](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
 + [挑战Flux架构](https://medium.com/@raul.mihaila/challenging-the-flux-architecture-2838152a0f8f)
 + [React-Router动态路由设计最佳实践](https://segmentfault.com/a/1190000011765141)
@@ -44,7 +43,7 @@
 + [使用React实现骨架加载](https://codeburst.io/achieve-skeleton-loading-with-react-a12404678030)
 + [反弹时行为](https://developers.google.com/web/updates/2017/11/overscroll-behavior)
 + [用React渲染一个函数](https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2)
-+  [关于WordPress＆Gutenberg！我们和React.js官方团队做了一次交流](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
++ [关于WordPress＆Gutenberg！我们和React.js官方团队做了一次交流](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
 + [清洁代码与脏代码：React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
 + [创建可访问的React应用](http://simplyaccessible.com/article/react-a11y/)
 ### 第四周
