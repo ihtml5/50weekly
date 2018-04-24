@@ -20,7 +20,6 @@
 + [异步组件](https://gist.github.com/acdlite/a68433004f9d6b4cbc83b5cc3990c194)
 + [在create React App中实现代码分割](https://serverless-stack.com/chapters/code-splitting-in-create-react-app.html)
 + [React Router v4 之代码分割：从放弃到入门](http://www.wukai.me/2017/09/25/react-router-v4-code-splitting/)
-+ [https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923](https://medium.com/@adamrackis/vendor-and-code-splitting-in-webpack-2-6376358f1923)
 + [在react router中实现代码分离](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/code-splitting.md)
 + [react-lite - 针对小尺寸优化的React实现 - 采访Jade](https://survivejs.com/blog/react-lite-interview/)
 ### 第二周
