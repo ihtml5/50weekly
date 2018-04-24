@@ -36,8 +36,6 @@
 + [Twitter Lite以及大规模的高性能React渐进式网络应用](http://blog.csdn.net/neal1991/article/details/70193602)
 + [全面了解react license](https://github.com/ihtml5/weekly/blob/master/react%20license/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3react%20license.md)
 ### 第三周
-### React
-
 + [Twitter Lite以及大规模的高性能React渐进式网络应用](https://div.io/topic/1963)
 + [一份来自Treebo 的 React 与 Preact PWA 性能分析报告](http://www.zcfy.cc/article/a-react-and-preact-progressive-web-app-performance-case-study-treebo-4250.html)
 + [The React Story: How Facebook's Instagram Acquisition Led To The Open Sourcing of React.js](https://stackshare.io/posts/the-react-story)
