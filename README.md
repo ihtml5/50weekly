@@ -71,4 +71,11 @@
 + [让我们开发一个软件包管理器](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
 + [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
 
+### 第七周
+
++ [你也许不需要Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
++ [使用渲染回调组件在React应用程序中共享有状态的UI逻辑](https://trevordmiller.com/blog/react-render-callback-components)
++ [认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685?spm=5176.100239.blogcont122058.16.WABtqs)
++ [组件化架构漫谈](http://www.jianshu.com/p/67a6004f6930)
+
 
