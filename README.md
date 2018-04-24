@@ -47,3 +47,10 @@
 +  [关于WordPress＆Gutenberg！我们和React.js官方团队做了一次交流](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
 + [清洁代码与脏代码：React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
 + [创建可访问的React应用](http://simplyaccessible.com/article/react-a11y/)
+### 第四周
+
++ [可访问性探究](https://facebook.github.io/react/docs/accessibility.html)
++ [为全球市场构建一个高性能的uber移动站点](https://eng.uber.com/m-uber/)
++ [剖析 Twitter 的 Redux Store 的结构](https://wanqu.co/a/4699/2017-02-18-dissecting-twitters-redux-store-statuscode-medium.html?s=social)
++ [javascriptInfo](https://javascript.info/)
++ [我如何进入#Node：Rachel White](https://medium.com/@nodejs/how-i-got-into-node-rachel-white-913671778acc)
