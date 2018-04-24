@@ -47,13 +47,3 @@
 +  [关于WordPress＆Gutenberg！我们和React.js官方团队做了一次交流](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
 + [清洁代码与脏代码：React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
 + [创建可访问的React应用](http://simplyaccessible.com/article/react-a11y/)
-
-
-### 用户体验
-
-+ [这个控件叫：Skeleton Screen/加载占位图](http://www.ftium4.com/skeleton-screen.html)
-+ [动画进度指示器的最佳实践：好的交互设计会提供反馈](http://www.woshipm.com/ucd/632668.html)
-
-
-### URL Schemes
-1. [URL Schemes 使用详解](https://www.jianshu.com/p/d3185c70cc44)
