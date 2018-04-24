@@ -53,3 +53,13 @@
 + [剖析 Twitter 的 Redux Store 的结构](https://wanqu.co/a/4699/2017-02-18-dissecting-twitters-redux-store-statuscode-medium.html?s=social)
 + [javascriptInfo](https://javascript.info/)
 + [我如何进入#Node：Rachel White](https://medium.com/@nodejs/how-i-got-into-node-rachel-white-913671778acc)
+### 第五周
+
++ [css ia awesome](https://css-tricks.com/css-is-awesome/)
++ [CSS浮动理论：你应该知道的事情](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
++ [构建大小感知React组件](https://blog.logrocket.com/building-size-aware-react-components-b4c37e7d96e7)
++ [React components as jQuery plugins](https://swizec.com/blog/using-react-in-the-real-world/swizec/6710)
++ [如何开始贡献Node.js](https://nodesource.com/blog/how-to-start-contributing-to-node-js?utm_medium=Social&utm_source=twitter&utm_campaign=social)
++ [node.js面试](http://www.jianshu.com/p/037652944207)
++ [Webpack vs Gulp](https://buddy.works/blog/webpack-vs-gulp)
+
