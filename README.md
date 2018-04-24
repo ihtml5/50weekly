@@ -62,3 +62,13 @@
 + [node.js面试](http://www.jianshu.com/p/037652944207)
 + [Webpack vs Gulp](https://buddy.works/blog/webpack-vs-gulp)
 
+### 第六周
+
++ [深入理解react中的children](http://mxstbr.blog/2017/02/react-children-deepdive/)
++ [介绍调试ReactJS应用程序](https://medium.com/@baphemot/intro-to-debugging-reactjs-applications-67cf7a50b3dd)
++ [窥探React Fiber- 如何完成工作](http://makersden.io/blog/look-inside-fiber/)
++ [使用Firebase与Redux构建React应用程序](https://www.codementor.io/vijayst/using-firebase-with-redux-for-building-a-react-app-du1086puw)
++ [让我们开发一个软件包管理器](https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/)
++ [饿了么的 PWA 升级实践](https://zhuanlan.zhihu.com/p/27853228)
+
+
