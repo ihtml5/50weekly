@@ -35,16 +35,29 @@
 + [什么是React Call Return?](https://zhuanlan.zhihu.com/p/30915829)
 + [Twitter Lite以及大规模的高性能React渐进式网络应用](http://blog.csdn.net/neal1991/article/details/70193602)
 + [全面了解react license](https://github.com/ihtml5/weekly/blob/master/react%20license/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3react%20license.md)
-### 性能优化
+### 第三周
+### React
 
-1. [javascript性能分析](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
-2. [动态导入介绍](https://developers.google.com/web/updates/2017/11/dynamic-import)
-3. [React设计模式](https://reacttraining.com/patterns/)
-4. [Pinterest渐进式web性能优化实践](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
-5. [React应用在产品环境下的性能优化](http://benweizhu.github.io/blog/2017/05/12/react-redux-production-optimisation/)
-6. [Tinder渐进式web性能优化实践](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
-7. [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
-8. [Passive event listeners](https://github.com/WICG/EventListenerOptions/blob/gh-pages/explainer.md#feature-detection)
++ [Twitter Lite以及大规模的高性能React渐进式网络应用](https://div.io/topic/1963)
++ [一份来自Treebo 的 React 与 Preact PWA 性能分析报告](http://www.zcfy.cc/article/a-react-and-preact-progressive-web-app-performance-case-study-treebo-4250.html)
++ [The React Story: How Facebook's Instagram Acquisition Led To The Open Sourcing of React.js](https://stackshare.io/posts/the-react-story)
++ [How the Facebook content placeholder works](https://cloudcannon.com/deconstructions/2014/11/15/facebook-content-placeholder-deconstruction.html)
++ [https://github.com/toplan/react-hold](https://github.com/toplan/react-hold)
++ [Building interface previews with React](http://www.callumhart.com/blog/building-interface-previews-with-react)
++ [React Placeholder loading state](http://matthewroach.me/react-placeholder-loading-state/)
++ [Achieve skeleton loading with React](https://codeburst.io/achieve-skeleton-loading-with-react-a12404678030)
++ [overscroll-behavior](https://developers.google.com/web/updates/2017/11/overscroll-behavior)
++ [Rendering a function with React](https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2)
++  [We Interviewed the React.js Team at Facebook About WordPress & Gutenberg!](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
++ [Clean Code vs. Dirty Code: React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
++ [Creating accessible React apps](http://simplyaccessible.com/article/react-a11y/)
+
+
+### 用户体验
+
++ [这个控件叫：Skeleton Screen/加载占位图](http://www.ftium4.com/skeleton-screen.html)
++ [动画进度指示器的最佳实践：好的交互设计会提供反馈](http://www.woshipm.com/ucd/632668.html)
+
 
 ### URL Schemes
 1. [URL Schemes 使用详解](https://www.jianshu.com/p/d3185c70cc44)
