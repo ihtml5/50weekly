@@ -3,7 +3,7 @@
 
 ### 简介
 
-[50weekly](https://github.com/ihtml5/50weekly)，中文名50周。希望通过50周500篇高质量的前端文章，成就更优秀的自己，成为更优秀的前端工程师。目前由我和社区贡献者一起维护，每周五同步更新本周社区高质量前端资源。内容来源于twitter业界大牛的推荐，javascript weekly，nodejs weekly，react status，devto，hashnode, div.io等，本着少而精的原则收集关于前端各方面高质量的资源，内容涵盖以下几方面:
+[50weekly](https://github.com/ihtml5/50weekly)，中文名50周。希望通过50周500篇高质量的前端文章，成就更优秀的自己，成为更优秀的前端工程师。目前由我和社区贡献者一起维护，每周五同步更新本周社区高质量前端资源。内容来源于twitter业界大牛的推荐，[javascript weekly](https://javascriptweekly.com/)，[nodejs weekly](https://javascriptweekly.com/)，[react status](https://react.statuscode.com/)，[devto](http://dev.to)，[hashnode](http://hashnode.com), [div.io](http://div.io)等，本着少而精的原则收集关于前端各方面高质量的资源，内容涵盖以下几方面:
 + react生态包括react, redux, react-router, react-native等
 + 小程序
 + 移动web
