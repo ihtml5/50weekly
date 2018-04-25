@@ -28,7 +28,7 @@
 
 ### 相关转载
 
-+[高质量前端资源](https://cloud.tencent.com/developer/article/1005907)
++ [高质量前端资源](https://cloud.tencent.com/developer/article/1005907)
 + [全面了解react license](https://cloud.tencent.com/developer/article/1005975)
 
 
