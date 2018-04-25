@@ -22,13 +22,12 @@
 
 ### 贡献指南
 
-1. for本项目
-2. 发起pr
-3. issue里推荐好的文章
+1. [for本项目](https://github.com/ihtml5/50weekly/pulls)
+2. [发起pr](https://github.com/ihtml5/50weekly/pulls)
+3. [issue里推荐好的文章](https://github.com/ihtml5/50weekly/issues)
 
 ### 相关转载
 
 + [高质量前端资源](https://cloud.tencent.com/developer/article/1005907)
 + [全面了解react license](https://cloud.tencent.com/developer/article/1005975)
-
 
