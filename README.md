@@ -4,6 +4,7 @@
 ### 本周刊囊括以下内容
 + react生态包括react, redux, react-router, react-native等
 + 移动web
++ 小程序
 + 构建工具包括webpack
 + nodejs
 
