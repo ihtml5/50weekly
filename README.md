@@ -92,4 +92,11 @@
 + [React Internals, Part One: basic rendering](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 + [再谈Retina下1px的解决方案](http://www.w3cplus.com/css/fix-1px-for-retina.html)
 + [最好的前端JavaScript面试问题（由前端工程师撰写)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
++ [JavaScript Errors 指南 ](https://github.com/Jocs/jocs.github.io/issues/1)
++ [重温ES6核心概念和基本用法](https://segmentfault.com/a/1190000009885614#articleHeader19)
++ [ASYNC / AWAIT将使您的代码变得简单](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
++ [Node Hero - Node.js入门教程](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/)
++ [JavaScript的工作原理：在V8引擎内部5个关于如何编写优化代码的提示](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e)
++ [也谈node.js全栈式开发](https://www.kancloud.cn/kancloud/midway/48192)
++ [前端工程化实践：大前端的转变之路](https://zhuanlan.zhihu.com/p/28769103)
 
