@@ -86,3 +86,10 @@
 + [React 16中错误处理](https://gist.github.com/gaearon/0f1a7b12640d477d4b9efa79913b3775)
 + [React社区原则](https://reactcommunity.org/)
 
+### 第九周
+
++ [React的新引擎—React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
++ [React Internals, Part One: basic rendering](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
++ [再谈Retina下1px的解决方案](http://www.w3cplus.com/css/fix-1px-for-retina.html)
++ [最好的前端JavaScript面试问题（由前端工程师撰写)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
+
