@@ -23,6 +23,7 @@
 + [React Router v4 之代码分割：从放弃到入门](http://www.wukai.me/2017/09/25/react-router-v4-code-splitting/)
 + [在react router中实现代码分离](https://github.com/ReactTraining/react-router/blob/master/packages/react-router-dom/docs/guides/code-splitting.md)
 + [react-lite - 针对小尺寸优化的React实现 - 采访Jade](https://survivejs.com/blog/react-lite-interview/)
+
 ### 第二周
 + [Webpack打包器面板进阶](http://web.jobbole.com/92901/)
 + [1分钟读完《我希望在深入 React 之前知道这些》](https://segmentfault.com/a/1190000011809919)
@@ -32,6 +33,7 @@
 + [什么是React Call Return?](https://zhuanlan.zhihu.com/p/30915829)
 + [Twitter Lite以及大规模的高性能React渐进式网络应用](http://blog.csdn.net/neal1991/article/details/70193602)
 + [全面了解react license](https://github.com/ihtml5/weekly/blob/master/react%20license/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3react%20license.md)
+
 ### 第三周
 + [Twitter Lite以及大规模的高性能React渐进式网络应用](https://div.io/topic/1963)
 + [一份来自Treebo 的 React 与 Preact PWA 性能分析报告](http://www.zcfy.cc/article/a-react-and-preact-progressive-web-app-performance-case-study-treebo-4250.html)
@@ -43,9 +45,7 @@
 + [使用React实现骨架加载](https://codeburst.io/achieve-skeleton-loading-with-react-a12404678030)
 + [反弹时行为](https://developers.google.com/web/updates/2017/11/overscroll-behavior)
 + [用React渲染一个函数](https://blog.kentcdodds.com/rendering-a-function-with-react-ca3eaf0751e2)
-+ [关于WordPress＆Gutenberg！我们和React.js官方团队做了一次交流](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
-+ [清洁代码与脏代码：React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
-+ [创建可访问的React应用](http://simplyaccessible.com/article/react-a11y/)
+
 ### 第四周
 
 + [可访问性探究](https://facebook.github.io/react/docs/accessibility.html)
@@ -53,6 +53,9 @@
 + [剖析 Twitter 的 Redux Store 的结构](https://wanqu.co/a/4699/2017-02-18-dissecting-twitters-redux-store-statuscode-medium.html?s=social)
 + [javascriptInfo](https://javascript.info/)
 + [我如何进入#Node：Rachel White](https://medium.com/@nodejs/how-i-got-into-node-rachel-white-913671778acc)
++ [关于WordPress＆Gutenberg！我们和React.js官方团队做了一次交流](https://wpcouple.com/interview-react-team-facebook-wordpress-gutenberg/)
++ [清洁代码与脏代码：React Best Practices](http://americanexpress.io/clean-code-dirty-code/)
++ [创建可访问的React应用](http://simplyaccessible.com/article/react-a11y/)
 ### 第五周
 
 + [css is awesome](https://css-tricks.com/css-is-awesome/)
@@ -60,8 +63,12 @@
 + [构建大小感知React组件](https://blog.logrocket.com/building-size-aware-react-components-b4c37e7d96e7)
 + [React components as jQuery plugins](https://swizec.com/blog/using-react-in-the-real-world/swizec/6710)
 + [如何开始贡献Node.js](https://nodesource.com/blog/how-to-start-contributing-to-node-js?utm_medium=Social&utm_source=twitter&utm_campaign=social)
-+ [node.js面试](http://www.jianshu.com/p/037652944207)
-+ [Webpack vs Gulp](https://buddy.works/blog/webpack-vs-gulp)
++ [Preload，Prefetch 和它们在 Chrome 之中的优先级著作权归作者所有。](http://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html?utm_source=tuicool&utm_medium=referral)
++ [深入剖析 JavaScript 的深复制](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
++ [什么是函数式编程](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
++ [使用组件文件夹模式编写可扩展的React应用程序](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
++ [衡量性能增益 - AngularJS反应（使用Redux或Mobx）](https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455)
+
 
 ### 第六周
 
@@ -78,6 +85,8 @@
 + [使用渲染回调组件在React应用程序中共享有状态的UI逻辑](https://trevordmiller.com/blog/react-render-callback-components)
 + [认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685?spm=5176.100239.blogcont122058.16.WABtqs)
 + [组件化架构漫谈](http://www.jianshu.com/p/67a6004f6930)
++ [在项目中用Preact替换React](https://blog.gaya.ninja/articles/replacing-react-with-preact/?utm_source=hashnode.com)
++ [React的新引擎—React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
 
 ### 第八周
 
@@ -88,7 +97,6 @@
 
 ### 第九周
 
-+ [React的新引擎—React Fiber是什么？](https://mp.weixin.qq.com/s/AuwfW1vZeoeBEaioaFELzQ)
 + [React Internals, Part One: basic rendering](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 + [再谈Retina下1px的解决方案](http://www.w3cplus.com/css/fix-1px-for-retina.html)
 + [最好的前端JavaScript面试问题（由前端工程师撰写)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-%28written-by-a-Frontend-Engineer%29)
