@@ -12,7 +12,7 @@
 + fork本项目
 + 发起pr
 
-### 第九周[NEWLY]
+### 第九周[最新]
 
 + [React Internals, Part One: basic rendering](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 + [再谈Retina下1px的解决方案](http://www.w3cplus.com/css/fix-1px-for-retina.html)
