@@ -19,13 +19,8 @@
 + [Preload，Prefetch 和它们在 Chrome 之中的优先级](http://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html?utm_source=tuicool&utm_medium=referral)
 + [深入剖析 JavaScript 的深复制](http://jerryzou.com/posts/dive-into-deep-clone-in-javascript/)
 + [什么是函数式编程？](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
-
-
-### React
-
-1. [Writing Scalable React Apps with the Component Folder Pattern](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
-2. [Measuring performance gains — AngularJS to React (with Redux or Mobx)](https://medium.com/@guptagaruda/measuring-performance-gains-angularjs-to-react-with-redux-or-mobx-fb221517455)
-3. [Replacing React with Preact in Your Projects](https://blog.gaya.ninja/articles/replacing-react-with-preact/?utm_source=hashnode.com)
++ [使用组件文件夹模式编写可扩展的React应用程序](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
++ [JavaScript如何工作：引擎，运行时和调用堆栈的概述](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 
 
 ### 第九周
