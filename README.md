@@ -12,7 +12,7 @@
 + fork本项目
 + 发起pr
 
-### 第十周[正在更新中]
+### 第十周[最新]
 + [漫画：深入浅出 ES 模块](https://zhuanlan.zhihu.com/p/36358695)
 + [前端性能监控方案window.performance 调研](https://www.cnblogs.com/sunshq/p/5312231.html)
 + [React patterns, techniques, tips and tricks ](https://github.com/vasanthk/react-bits)
