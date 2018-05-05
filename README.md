@@ -21,7 +21,8 @@
 + [什么是函数式编程？](http://www.lihaoyi.com/post/WhatsFunctionalProgrammingAllAbout.html)
 + [使用组件文件夹模式编写可扩展的React应用程序](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68)
 + [JavaScript如何工作：引擎，运行时和调用堆栈的概述](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
-
++ [API设计原则](https://coolshell.cn/articles/18024.html)
++ [使用immutable优化React](https://github.com/Pines-Cheng/blog/issues/13?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ### 第九周
 
