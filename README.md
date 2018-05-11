@@ -11,6 +11,14 @@
 ### 贡献指南
 + fork本项目
 + 发起pr
+### 第十一周[最新]
++  [使用Render Prop模式](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
++  [React.js 小书](http://huziketang.com/books/react/)
++  [我如何在两天内建立自己的react - 以及为什么我做到了](https://medium.com/@ajmd17/how-i-built-my-own-react-in-two-days-and-why-i-did-it-969c3d048f78)
++  [【译】React及React Fiber基本的设计理念](https://segmentfault.com/a/1190000009075692#articleHeader23)
++  [去哪儿网迷你React的研发心得](https://segmentfault.com/a/1190000011235844)
++  [Webpack基本架构浅析](https://zhuanlan.zhihu.com/p/36445010)
++  [react-grid-layout](https://github.com/STRML/react-grid-layout)
 
 ### 第十周[最新]
 + [漫画：深入浅出 ES 模块](https://zhuanlan.zhihu.com/p/36358695)
