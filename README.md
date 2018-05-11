@@ -18,9 +18,10 @@
 +  [【译】React及React Fiber基本的设计理念](https://segmentfault.com/a/1190000009075692#articleHeader23)
 +  [去哪儿网迷你React的研发心得](https://segmentfault.com/a/1190000011235844)
 +  [Webpack基本架构浅析](https://zhuanlan.zhihu.com/p/36445010)
-+  [react-grid-layout](https://github.com/STRML/react-grid-layout)
++  [React可拖动且可调整大小的网格布局，具有响应式断点](https://github.com/STRML/react-grid-layout)
 +  [advanced-react-patterns-v2](https://github.com/kentcdodds/advanced-react-patterns-v2)
 +  [React Suspense](https://github.com/facebook/react/pull/12279#event-1621005314)
++  [Guess.js：使用数据改善用户体验的工具包](https://github.com/guess-js/guess)
 
 ### 第十周[最新]
 + [漫画：深入浅出 ES 模块](https://zhuanlan.zhihu.com/p/36358695)
