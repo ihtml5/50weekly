@@ -23,7 +23,7 @@
 +  [React Suspense](https://github.com/facebook/react/pull/12279#event-1621005314)
 +  [Guess.js：使用数据改善用户体验的工具包](https://github.com/guess-js/guess)
 
-### 第十周[最新]
+### 第十周
 + [漫画：深入浅出 ES 模块](https://zhuanlan.zhihu.com/p/36358695)
 + [前端性能监控方案window.performance 调研](https://www.cnblogs.com/sunshq/p/5312231.html)
 + [React patterns, techniques, tips and tricks ](https://github.com/vasanthk/react-bits)
