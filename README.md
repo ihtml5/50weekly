@@ -12,7 +12,13 @@
 + fork本项目
 + 发起pr
 
-### 第十一周[最新]
+### 第十二周[最新]
+
++ [调试现代Web应用程序](https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/)
++ [如何阅读大型前端开源项目的源码](https://juejin.im/post/5afe3735518825426539afce)
++ [build your own x](https://github.com/danistefanovic/build-your-own-x)
+
+### 第十一周
 +  [使用Render Prop模式](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
 +  [React.js 小书](http://huziketang.com/books/react/)
 +  [我如何在两天内建立自己的react - 以及为什么我做到了](https://medium.com/@ajmd17/how-i-built-my-own-react-in-two-days-and-why-i-did-it-969c3d048f78)
