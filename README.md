@@ -17,6 +17,7 @@
 + [调试现代Web应用程序](https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/)
 + [如何阅读大型前端开源项目的源码](https://juejin.im/post/5afe3735518825426539afce)
 + [build your own x](https://github.com/danistefanovic/build-your-own-x)
++ [前端 Leader 如何做好团队规划？阿里内部培训总结公开](https://zhuanlan.zhihu.com/p/36911993)
 
 ### 第十一周
 +  [使用Render Prop模式](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
