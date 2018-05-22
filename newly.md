@@ -1,3 +1,3 @@
-### [调试现代Web应用程序](https://hacks.mozilla.org/2018/05/debugging-modern-web-applications/)
-### [如何阅读大型前端开源项目的源码](https://juejin.im/post/5afe3735518825426539afce)
-### [build your own x](https://github.com/danistefanovic/build-your-own-x)
+### [精读前后端渲染之争](https://zhuanlan.zhihu.com/p/26366128)
+### [React Fiber架构](https://zhuanlan.zhihu.com/p/37095662)
+### [Node 在有赞的实践](https://juejin.im/post/5b0388006fb9a07aa213ae16?utm_source=gold_browser_extension)
