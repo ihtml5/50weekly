@@ -15,6 +15,7 @@
 ### 第十四周[最新]
 + [Axios源码深度剖析- ajax新王者](https://zhuanlan.zhihu.com/p/37379376)
 + [deno A secure TypeScript runtime on V8](https://github.com/ry/deno)
++ [百度内部Redux培训材料](https://zhuanlan.zhihu.com/p/37605477)
 
 ### 第十三周
 + [在React中构建渐进式Web应用程序](https://blog.truthlabs.com/building-a-progressive-web-app-in-react-11c77a7fccb3);
