@@ -16,6 +16,8 @@
 + [Axios源码深度剖析- ajax新王者](https://zhuanlan.zhihu.com/p/37379376)
 + [deno A secure TypeScript runtime on V8](https://github.com/ry/deno)
 + [百度内部Redux培训材料](https://zhuanlan.zhihu.com/p/37605477)
++ [通过HTTPS介绍DNS的漫画](https://hacks.mozilla.org/2018/05/a-cartoon-intro-to-dns-over-https/)
++ [Reach Router 用于React的下一代路由](https://reach.tech/router)
 
 ### 第十三周
 + [在React中构建渐进式Web应用程序](https://blog.truthlabs.com/building-a-progressive-web-app-in-react-11c77a7fccb3);
