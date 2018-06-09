@@ -3,6 +3,7 @@
 
 ### 本周刊囊括以下内容
 + react生态包括react, redux, react-router, react-native等
++ vue.js angularjs
 + 移动web
 + 小程序
 + 构建工具包括webpack
@@ -16,6 +17,10 @@
 1. [Vue源码的最后一站](https://zhuanlan.zhihu.com/p/37853734)
 2. [手把手教你撸一个简易的 webpack](https://zhuanlan.zhihu.com/p/37864523)
 3. [多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用](https://github.com/NervJS/taro)
+4. [理解expressjs如何工作](https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/)
+5. [如何使用Nuxt.js监控生产中的错误](如何使用Nuxt.js监控生产中的错误)
+6. [轻松入门Prepack（第1部分）](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
+7. [你可能不需要派生状态 React官方最新博文](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
 
 ### 第十四周
 + [Axios源码深度剖析- ajax新王者](https://zhuanlan.zhihu.com/p/37379376)
