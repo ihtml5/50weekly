@@ -17,6 +17,7 @@
 1. [React Native2018年现状](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
 2. [React Profiler RFC](https://github.com/reactjs/rfcs/pull/51)
 3. [next-codemod](https://github.com/zeit/next-codemod)
+4. [我们应该使用React Native吗？](https://blog.expo.io/should-we-use-react-native-1465d8b607ac)
 
 ### 第十五周
 1. [Vue源码的最后一站](https://zhuanlan.zhihu.com/p/37853734)
