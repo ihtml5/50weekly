@@ -20,6 +20,7 @@
 4. [我们应该使用React Native吗？](https://blog.expo.io/should-we-use-react-native-1465d8b607ac)
 5. [更好地理解React中的表单](https://medium.com/javascript-inside/better-understanding-forms-in-react-a85d889773ce)
 6. [用导航和资源时机评估现实生活中的加载性能](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
+7. [没错，我就是要吹爆Angular](https://zhuanlan.zhihu.com/p/38430368)
 
 ### 第十五周
 1. [Vue源码的最后一站](https://zhuanlan.zhihu.com/p/37853734)
