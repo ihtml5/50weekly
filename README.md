@@ -14,13 +14,16 @@
 + 发起pr
 
 ### 第十六周【最新】
-1. [React Native2018年现状](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
-2. [React Profiler RFC](https://github.com/reactjs/rfcs/pull/51)
-3. [next-codemod](https://github.com/zeit/next-codemod)
-4. [我们应该使用React Native吗？](https://blog.expo.io/should-we-use-react-native-1465d8b607ac)
-5. [更好地理解React中的表单](https://medium.com/javascript-inside/better-understanding-forms-in-react-a85d889773ce)
-6. [用导航和资源时机评估现实生活中的加载性能](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
-7. [没错，我就是要吹爆Angular](https://zhuanlan.zhihu.com/p/38430368)
+1. [用导航和资源时机评估现实生活中的加载性能](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
+2. [没错，我就是要吹爆Angular](https://zhuanlan.zhihu.com/p/38430368)
+3. [给React的HOC用上TS的类型推导](https://zhuanlan.zhihu.com/p/38378730)
+4. [react-final-form 针对React的高性能基于订阅的表单状态管理](https://github.com/final-form/react-final-form)
+5. [React生命周期方法的实时可视化工具](https://github.com/Oblosys/react-lifecycle-visualizer)
+6. [React Native2018年现状](https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018)
+7. [React Profiler RFC](https://github.com/reactjs/rfcs/pull/51)
+8. [next-codemod](https://github.com/zeit/next-codemod)
+9. [我们应该使用React Native吗？](https://blog.expo.io/should-we-use-react-native-1465d8b607ac)
+10. [更好地理解React中的表单](https://medium.com/javascript-inside/better-understanding-forms-in-react-a85d889773ce)
 
 ### 第十五周
 1. [Vue源码的最后一站](https://zhuanlan.zhihu.com/p/37853734)
