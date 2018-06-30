@@ -13,7 +13,13 @@
 + fork本项目
 + 发起pr
 
-### 第十六周【最新】
+### 第十七周【最新】
+1. [探索ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
+2. [Material Component Framework for Vue.js 2](https://github.com/vuetifyjs/vuetify)
+3. [WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
+
+
+### 第十六周
 1. [用导航和资源时机评估现实生活中的加载性能](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
 2. [没错，我就是要吹爆Angular](https://zhuanlan.zhihu.com/p/38430368)
 3. [给React的HOC用上TS的类型推导](https://zhuanlan.zhihu.com/p/38378730)
