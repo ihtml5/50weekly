@@ -18,7 +18,7 @@
 2. [Material Component Framework for Vue.js 2](https://github.com/vuetifyjs/vuetify)
 3. [WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
 4. [A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero)
-
+5. [如何成为一名数据可视化工程师](https://www.zhihu.com/question/49749071/answer/118840095)
 
 ### 第十六周
 1. [用导航和资源时机评估现实生活中的加载性能](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
