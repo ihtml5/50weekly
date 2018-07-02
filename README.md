@@ -17,6 +17,7 @@
 1. [探索ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 2. [Material Component Framework for Vue.js 2](https://github.com/vuetifyjs/vuetify)
 3. [WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
+4. [A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero)
 
 
 ### 第十六周
