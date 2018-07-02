@@ -19,6 +19,9 @@
 3. [WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
 4. [A simple (99% ES2015 less) tutorial for React](https://github.com/kay-is/react-from-zero)
 5. [如何成为一名数据可视化工程师](https://www.zhihu.com/question/49749071/answer/118840095)
+6. [数据结构索引](https://www.interviewcake.com/data-structures-reference)
+7. [移动端跨平台开发的深度解析](https://juejin.im/post/5b395eb96fb9a00e556123ef)
+8. [使用Tree shaking 减少JavaScript有效负载](https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/)
 
 ### 第十六周
 1. [用导航和资源时机评估现实生活中的加载性能](https://developers.google.com/web/fundamentals/performance/navigation-and-resource-timing/)
