@@ -13,7 +13,12 @@
 + fork本项目
 + 发起pr
 
-### 第十七周【最新】
+### 第十八周[最新]
+1. [2018年成为一个react开发者学习路线](https://github.com/adam-golab/react-developer-roadmap)
+2. [用于观察DOM元素的可见性更改的实用程序库](https://github.com/vissense/vissense)
+3. [用JavaScript编写的强大的HTML实体编码器/解码器](https://github.com/mathiasbynens/he)
+
+### 第十七周
 1. [探索ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
 2. [Material Component Framework for Vue.js 2](https://github.com/vuetifyjs/vuetify)
 3. [WePY-小程序框架设计](https://zhuanlan.zhihu.com/p/29264211)
