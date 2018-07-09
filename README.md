@@ -17,6 +17,8 @@
 1. [2018年成为一个react开发者学习路线](https://github.com/adam-golab/react-developer-roadmap)
 2. [用于观察DOM元素的可见性更改的实用程序库](https://github.com/vissense/vissense)
 3. [用JavaScript编写的强大的HTML实体编码器/解码器](https://github.com/mathiasbynens/he)
+4. [使用React.js开发Chrome插件](http://web.jobbole.com/94893/)
+5. [28个顶级的React UI组件库，请查收！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489165&idx=1&sn=7c20948a9d4970a35e861806d26e8eb6)
 
 ### 第十七周
 1. [探索ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
