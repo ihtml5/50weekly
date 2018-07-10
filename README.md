@@ -21,6 +21,9 @@
 5. [28个顶级的React UI组件库，请查收！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489165&idx=1&sn=7c20948a9d4970a35e861806d26e8eb6)
 6. [8月18日，React DEV Conf 与你相约广州](https://zhuanlan.zhihu.com/p/39276211)
 7. [科普文：为什么不能在服务器上 npm install ？](https://zhuanlan.zhihu.com/p/39209596)
+8. [如何监控网页的卡顿？](https://zhuanlan.zhihu.com/p/39292837)
+9. [从Chrome源码看浏览器如何layout布局](https://zhuanlan.zhihu.com/p/25445527)
+10.[什么是Redux：设计师指南](https://www.smashingmagazine.com/2018/07/redux-designers-guide/)
 
 ### 第十七周
 1. [探索ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
