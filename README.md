@@ -19,6 +19,8 @@
 3. [用JavaScript编写的强大的HTML实体编码器/解码器](https://github.com/mathiasbynens/he)
 4. [使用React.js开发Chrome插件](http://web.jobbole.com/94893/)
 5. [28个顶级的React UI组件库，请查收！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247489165&idx=1&sn=7c20948a9d4970a35e861806d26e8eb6)
+6. [8月18日，React DEV Conf 与你相约广州](https://zhuanlan.zhihu.com/p/39276211)
+7. [科普文：为什么不能在服务器上 npm install ？](https://zhuanlan.zhihu.com/p/39209596)
 
 ### 第十七周
 1. [探索ES2018 and ES2019](http://exploringjs.com/es2018-es2019/toc.html)
