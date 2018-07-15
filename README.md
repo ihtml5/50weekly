@@ -13,6 +13,11 @@
 + fork本项目
 + 发起pr
 
+### 第十九周[最新]
+1. [[译] 图解 React](https://juejin.im/post/5b481f6b51882519ad6175c2?utm_source=weibo&utm_campaign=user)
+2. [ Guppy A friendly application manager and task runner for React.js](https://github.com/joshwcomeau/guppy)
+3. [nodejs-learning-guide Nodejs学习笔记以及经验总结，公众号"程序猿小卡"](https://github.com/chyingp/nodejs-learning-guide)
+
 ### 第十八周[最新]
 1. [2018年成为一个react开发者学习路线](https://github.com/adam-golab/react-developer-roadmap)
 2. [用于观察DOM元素的可见性更改的实用程序库](https://github.com/vissense/vissense)
