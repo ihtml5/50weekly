@@ -19,6 +19,7 @@
 3. [nodejs-learning-guide Nodejs学习笔记以及经验总结，公众号"程序猿小卡"](https://github.com/chyingp/nodejs-learning-guide)
 4. [webkit git](https://github.com/WebKit/webkit)
 5. [了解如何设计大型系统](https://github.com/donnemartin/system-design-primer)
+6. [这里收集了许多移动端上遇到的各种坑 by 司徒正美](https://github.com/RubyLouvre/mobileHack)
 
 ### 第十八周[最新]
 1. [2018年成为一个react开发者学习路线](https://github.com/adam-golab/react-developer-roadmap)
