@@ -21,6 +21,7 @@
 5. [了解如何设计大型系统](https://github.com/donnemartin/system-design-primer)
 6. [这里收集了许多移动端上遇到的各种坑 by 司徒正美](https://github.com/RubyLouvre/mobileHack)
 7. [用于可视化分析数据的React组件](https://github.com/bvaughn/react-flame-graph)
+8. [声明状态和逻辑管理](https://github.com/reclarejs/reclare?utm_source=gold_browser_extension)
 
 ### 第十八周[最新]
 1. [2018年成为一个react开发者学习路线](https://github.com/adam-golab/react-developer-roadmap)
