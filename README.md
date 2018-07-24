@@ -13,6 +13,12 @@
 + fork本项目
 + 发起pr
 
+### 第二十周[最新]
+1. [利用 render props 重构组件](https://zhuanlan.zhihu.com/p/40368696)
+2. [React ref 的前世今生](https://zhuanlan.zhihu.com/p/40462264)
+3. [《解析 GraphQL 的查询语法》【译】](https://zhuanlan.zhihu.com/p/40418866)
+4. [Added proof of concept interaction-tracking package](https://github.com/facebook/react/pull/13253)
+
 ### 第十九周[最新]
 1. [[译] 图解 React](https://juejin.im/post/5b481f6b51882519ad6175c2?utm_source=weibo&utm_campaign=user)
 2. [ Guppy A friendly application manager and task runner for React.js](https://github.com/joshwcomeau/guppy)
