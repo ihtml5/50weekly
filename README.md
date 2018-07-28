@@ -20,6 +20,7 @@
 4. [Added proof of concept interaction-tracking package](https://github.com/facebook/react/pull/13253)
 5. [原生页面生命周期方法](https://developers.google.com/web/updates/2018/07/page-lifecycle-api)
 6. [Releasing Suspense](https://github.com/facebook/react/issues/13206#issuecomment-407535077)
+7. [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
 
 ### 第十九周[最新]
 1. [[译] 图解 React](https://juejin.im/post/5b481f6b51882519ad6175c2?utm_source=weibo&utm_campaign=user)
