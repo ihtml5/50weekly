@@ -23,7 +23,7 @@
 7. [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
 8. [浅谈Hybrid技术的设计与实现](https://www.cnblogs.com/yexiaochai/p/4921635.html)
 
-### 第十九周[最新]
+### 第十九周
 1. [[译] 图解 React](https://juejin.im/post/5b481f6b51882519ad6175c2?utm_source=weibo&utm_campaign=user)
 2. [ Guppy A friendly application manager and task runner for React.js](https://github.com/joshwcomeau/guppy)
 3. [nodejs-learning-guide Nodejs学习笔记以及经验总结，公众号"程序猿小卡"](https://github.com/chyingp/nodejs-learning-guide)
@@ -33,7 +33,7 @@
 7. [用于可视化分析数据的React组件](https://github.com/bvaughn/react-flame-graph)
 8. [声明状态和逻辑管理](https://github.com/reclarejs/reclare?utm_source=gold_browser_extension)
 
-### 第十八周[最新]
+### 第十八周
 1. [2018年成为一个react开发者学习路线](https://github.com/adam-golab/react-developer-roadmap)
 2. [用于观察DOM元素的可见性更改的实用程序库](https://github.com/vissense/vissense)
 3. [用JavaScript编写的强大的HTML实体编码器/解码器](https://github.com/mathiasbynens/he)
