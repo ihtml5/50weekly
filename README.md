@@ -22,6 +22,8 @@
 6. [Releasing Suspense](https://github.com/facebook/react/issues/13206#issuecomment-407535077)
 7. [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
 8. [浅谈Hybrid技术的设计与实现](https://www.cnblogs.com/yexiaochai/p/4921635.html)
+9. [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
+10.[前端监控和前端埋点方案设计](https://juejin.im/post/5b62d68df265da0f9d1a1cd6?utm_source=gold_browser_extension)
 
 ### 第十九周
 1. [[译] 图解 React](https://juejin.im/post/5b481f6b51882519ad6175c2?utm_source=weibo&utm_campaign=user)
