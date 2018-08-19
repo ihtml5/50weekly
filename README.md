@@ -12,6 +12,9 @@
 ### 贡献指南
 + fork本项目
 + 发起pr
+### 第二十一周[最新]
+1. [自定义create-react-app：如何制作自己的模板](https://auth0.com/blog/how-to-configure-create-react-app/)
+2. [Roadmap for react-scripts@2.0](https://github.com/facebook/create-react-app/issues/3815)
 
 ### 第二十周[最新]
 1. [利用 render props 重构组件](https://zhuanlan.zhihu.com/p/40368696)
