@@ -15,6 +15,9 @@
 ### 第二十一周[最新]
 1. [自定义create-react-app：如何制作自己的模板](https://auth0.com/blog/how-to-configure-create-react-app/)
 2. [Roadmap for react-scripts@2.0](https://github.com/facebook/create-react-app/issues/3815)
+3. [React面试题](https://github.com/Pau1fitz/react-interview)
+4. [关于React或与React相关的主题的精选讨论列表](https://github.com/tiaanduplessis/awesome-react-talks)
+5. [Javascript SVG parser and renderer on Canvas](https://github.com/canvg/canvg)
 
 ### 第二十周[最新]
 1. [利用 render props 重构组件](https://zhuanlan.zhihu.com/p/40368696)
