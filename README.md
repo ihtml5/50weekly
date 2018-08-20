@@ -19,6 +19,7 @@
 4. [关于React或与React相关的主题的精选讨论列表](https://github.com/tiaanduplessis/awesome-react-talks)
 5. [Javascript SVG parser and renderer on Canvas](https://github.com/canvg/canvg)
 6. [redux 有什么缺点？](https://www.zhihu.com/question/263928256)
+7. [来自webperf的导航时间草案规范](https://github.com/w3c/navigation-timing)
 
 ### 第二十周[最新]
 1. [利用 render props 重构组件](https://zhuanlan.zhihu.com/p/40368696)
