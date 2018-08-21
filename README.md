@@ -21,6 +21,7 @@
 6. [redux 有什么缺点？](https://www.zhihu.com/question/263928256)
 7. [来自webperf的导航时间草案规范](https://github.com/w3c/navigation-timing)
 8. [CSS小发明 :in-viewport](https://zhuanlan.zhihu.com/p/42290141)
+9. [新鲜出炉的第一届React conf ppt](https://react.w3ctech.com/#schedule)
 
 ### 第二十周[最新]
 1. [利用 render props 重构组件](https://zhuanlan.zhihu.com/p/40368696)
@@ -32,7 +33,6 @@
 7. [Hybrid APP架构设计思路](https://github.com/chemdemo/chemdemo.github.io/issues/12)
 8. [浅谈Hybrid技术的设计与实现](https://www.cnblogs.com/yexiaochai/p/4921635.html)
 9. [webpack-libs-optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
-
 10.[前端监控和前端埋点方案设计](https://juejin.im/post/5b62d68df265da0f9d1a1cd6?utm_source=gold_browser_extension)
 
 ### 第十九周
