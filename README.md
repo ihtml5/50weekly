@@ -12,7 +12,11 @@
 ### 贡献指南
 + fork本项目
 + 发起pr
-### 第二十一周[最新]
+
+### 第二十二周[最新]
+1. [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525)
+
+### 第二十一周
 1. [自定义create-react-app：如何制作自己的模板](https://auth0.com/blog/how-to-configure-create-react-app/)
 2. [Roadmap for react-scripts@2.0](https://github.com/facebook/create-react-app/issues/3815)
 3. [React面试题](https://github.com/Pau1fitz/react-interview)
@@ -23,7 +27,7 @@
 8. [CSS小发明 :in-viewport](https://zhuanlan.zhihu.com/p/42290141)
 9. [新鲜出炉的第一届React conf ppt](https://react.w3ctech.com/#schedule)
 
-### 第二十周[最新]
+### 第二十周
 1. [利用 render props 重构组件](https://zhuanlan.zhihu.com/p/40368696)
 2. [React ref 的前世今生](https://zhuanlan.zhihu.com/p/40462264)
 3. [《解析 GraphQL 的查询语法》【译】](https://zhuanlan.zhihu.com/p/40418866)
