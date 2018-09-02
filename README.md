@@ -15,6 +15,7 @@
 
 ### 第二十二周[最新]
 1. [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525)
+2. [你的Webpack起飞—考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502)
 
 ### 第二十一周
 1. [自定义create-react-app：如何制作自己的模板](https://auth0.com/blog/how-to-configure-create-react-app/)
