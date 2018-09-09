@@ -20,6 +20,7 @@
 4. [react和无限列表](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
 5. [我们如何构建twitter lite](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite.html)
 6. [如何监控网页的卡顿？](https://zhuanlan.zhihu.com/p/40273861)
+7. [React从渲染原理到性能优化](https://mp.weixin.qq.com/s/izjTmtTk0EV4axs18srOEg)
 
 ### 第二十一周
 1. [自定义create-react-app：如何制作自己的模板](https://auth0.com/blog/how-to-configure-create-react-app/)
