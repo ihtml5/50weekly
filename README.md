@@ -22,6 +22,8 @@
 6. [如何监控网页的卡顿？](https://zhuanlan.zhihu.com/p/40273861)
 7. [React从渲染原理到性能优化](https://mp.weixin.qq.com/s/izjTmtTk0EV4axs18srOEg)
 8. [snabbdom 源码阅读分析](https://juejin.im/post/5b9200865188255c672e8cfd?utm_source=weibo&utm_campaign=user)
+9. [Angular开发者学习之路](https://github.com/sulco/angular-developer-roadmap)
+10. [你也许不需要Momentjs](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 
 ### 第二十一周
 1. [自定义create-react-app：如何制作自己的模板](https://auth0.com/blog/how-to-configure-create-react-app/)
