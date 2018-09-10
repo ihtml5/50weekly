@@ -14,7 +14,7 @@
 + 发起pr
 
 ### 第二十二周[最新]
-1. [React Fire: Modernizing React DOM](https://github.com/facebook/react/issues/13525)
+1. [React Fire：现代化React DOM](https://github.com/facebook/react/issues/13525)
 2. [你的Webpack起飞—考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502)
 3. [无限滚动的复杂性](https://developers.google.com/web/updates/2016/07/infinite-scroller)
 4. [react和无限列表](http://itsze.ro/blog/2017/04/09/infinite-list-and-react.html)
