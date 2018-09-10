@@ -1,1 +1,1 @@
-[为网站添加触摸功能](https://developers.google.com/web/fundamentals/design-and-ux/input/touch/?hl=zh-cn)
+[大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
