@@ -19,6 +19,7 @@
 3. [如何做好微信小程序错误监控？ | FrontJS](https://zhuanlan.zhihu.com/p/35463288)
 4. [draft.js在知乎上的实践](https://zhuanlan.zhihu.com/p/24951621)
 5. [NoForm - 一个更好的表单解决方案](https://zhuanlan.zhihu.com/p/44120143)
+6. [如何使用 Timeline 工具](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
 
 ### 第二十二周
 1. [React Fire：现代化React DOM](https://github.com/facebook/react/issues/13525)
