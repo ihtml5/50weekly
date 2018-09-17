@@ -13,7 +13,12 @@
 + fork本项目
 + 发起pr
 
-### 第二十二周[最新]
+### 第二十三周[最新]
+1. [大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
+2. [web项目如何判断用户在“看”页面的什么位置](https://www.zhihu.com/question/67328049/answer/488549036)
+3. [如何做好微信小程序错误监控？ | FrontJS](https://zhuanlan.zhihu.com/p/35463288)
+
+### 第二十二周
 1. [React Fire：现代化React DOM](https://github.com/facebook/react/issues/13525)
 2. [你的Webpack起飞—考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502)
 3. [无限滚动的复杂性](https://developers.google.com/web/updates/2016/07/infinite-scroller)
