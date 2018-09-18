@@ -20,6 +20,10 @@
 4. [draft.js在知乎上的实践](https://zhuanlan.zhihu.com/p/24951621)
 5. [NoForm - 一个更好的表单解决方案](https://zhuanlan.zhihu.com/p/44120143)
 6. [如何使用 Timeline 工具](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
+7. [小程序构建骨架屏的探索](https://juejin.im/entry/5b9df106f265da0adb30c220?utm_source=gold_browser_extension)
+8. [从路由原理出发，深入阅读理解react-router 4.0的源码](https://juejin.im/post/5ba05cc65188255c8b6ee234?utm_source=gold_browser_extension)
+9. [Life of a Pixel：前端代码如何通过浏览器演化为屏幕显示的像素](https://juejin.im/post/5b9f3fe7e51d450ea52f9e3a?utm_source=gold_browser_extension)
+
 
 ### 第二十二周
 1. [React Fire：现代化React DOM](https://github.com/facebook/react/issues/13525)
