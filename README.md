@@ -16,6 +16,7 @@
 ### 第二十四周[更新中]
 1. [React Fiber 架构学习](https://zhuanlan.zhihu.com/p/44942360)
 2. [Nginx与前端开发](https://juejin.im/post/5bacbd395188255c8d0fd4b2)
+3. [前端安全系列（一）：如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64)
 ### 第二十三周
 1. [大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
 2. [web项目如何判断用户在“看”页面的什么位置](https://www.zhihu.com/question/67328049/answer/488549036)
