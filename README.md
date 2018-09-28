@@ -19,6 +19,7 @@
 3. [前端安全系列（一）：如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64)
 4. [调试第一步：让强大的console家族助你一臂之力](https://juejin.im/post/5b586ec06fb9a04fc436c9b3)
 5. [Airbnb 爱彼迎房源详情页中的 React 性能优化](https://juejin.im/entry/5bab390c5188255c8a06013f)
+6. [网站性能调优开发工具: Lighthouse, Puppeteer 以及进阶部分丨 Google 开发者大会 2018](https://juejin.im/post/5ba73d1de51d450e551a0d08)
 
 ### 第二十三周
 1. [大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
