@@ -18,6 +18,7 @@
 2. [Nginx与前端开发](https://juejin.im/post/5bacbd395188255c8d0fd4b2)
 3. [前端安全系列（一）：如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64)
 4. [调试第一步：让强大的console家族助你一臂之力](https://juejin.im/post/5b586ec06fb9a04fc436c9b3)
+5. [Airbnb 爱彼迎房源详情页中的 React 性能优化](https://juejin.im/entry/5bab390c5188255c8a06013f)
 
 ### 第二十三周
 1. [大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
