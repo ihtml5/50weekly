@@ -21,11 +21,12 @@
 5. [Airbnb 爱彼迎房源详情页中的 React 性能优化](https://juejin.im/entry/5bab390c5188255c8a06013f)
 6. [网站性能调优开发工具: Lighthouse, Puppeteer 以及进阶部分丨 Google 开发者大会 2018](https://juejin.im/post/5ba73d1de51d450e551a0d08)
 7. [React Podcast: Inside React](https://sophiebits.com/2018/05/29/react-podcast-inside-react.html)
+8. [一文读懂前端缓存](https://juejin.im/entry/5baef5cef265da0ad13b8c01?utm_source=gold_browser_extension)
 
 ### 第二十三周
 1. [大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
 2. [web项目如何判断用户在“看”页面的什么位置](https://www.zhihu.com/question/67328049/answer/488549036)
-3. [如何做好微信小程序错误监控？ | FrontJS](https://zhuanlan.zhihu.com/p/35463288)
+3. [如何做好微信小程序错误监控](https://zhuanlan.zhihu.com/p/35463288)
 4. [draft.js在知乎上的实践](https://zhuanlan.zhihu.com/p/24951621)
 5. [NoForm - 一个更好的表单解决方案](https://zhuanlan.zhihu.com/p/44120143)
 6. [如何使用 Timeline 工具](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
