@@ -22,6 +22,7 @@
 6. [网站性能调优开发工具: Lighthouse, Puppeteer 以及进阶部分丨 Google 开发者大会 2018](https://juejin.im/post/5ba73d1de51d450e551a0d08)
 7. [React Podcast: Inside React](https://sophiebits.com/2018/05/29/react-podcast-inside-react.html)
 8. [一文读懂前端缓存](https://juejin.im/entry/5baef5cef265da0ad13b8c01?utm_source=gold_browser_extension)
+9. [小邵教你玩转nodejs之nodejs概念、事件环机制](https://juejin.im/post/5ba85ce26fb9a05d2f36af01?utm_source=gold_browser_extension)
 
 ### 第二十三周
 1. [大前端时代前端监控的最佳实践](https://mp.weixin.qq.com/s/YiKRY_LDURY0uONtEhkUfg)
