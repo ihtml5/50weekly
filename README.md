@@ -13,7 +13,7 @@
 + fork本项目
 + 发起pr
 
-### 第二十四周[更新中]
+### 第二十四周
 1. [React Fiber 架构学习](https://zhuanlan.zhihu.com/p/44942360)
 2. [Nginx与前端开发](https://juejin.im/post/5bacbd395188255c8d0fd4b2)
 3. [前端安全系列（一）：如何防止XSS攻击](https://juejin.im/post/5bad9140e51d450e935c6d64)
