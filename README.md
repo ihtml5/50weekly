@@ -13,6 +13,9 @@
 + fork本项目
 + 发起pr
 
+### 第二十五周
+1. [node.js的简短介绍](https://github.com/maxogden/art-of-node#the-art-of-node)
+
 ### 第二十四周
 1. [React Fiber 架构学习](https://zhuanlan.zhihu.com/p/44942360)
 2. [Nginx与前端开发](https://juejin.im/post/5bacbd395188255c8d0fd4b2)
