@@ -21,6 +21,7 @@
 5. [Webpack揭秘——走向高阶前端的必经之路](https://juejin.im/post/5badd0c5e51d450e4437f07a?utm_source=gold_browser_extension)
 6. [自定义元素简介](https://dev.to/jamesrweb/an-introduction-to-custom-elements-5327)
 7. [Node.js处理负载均衡性能：iptables和Nginx](https://school.geekwall.in/p/ryzWpBqV7/node-js-process-load-balance-performance-iptables-and-nginx)
+8. [使用Next.js构建React服务端渲染应用](https://segmentfault.com/a/1190000015578803)
 
 ### 第二十四周
 1. [React Fiber 架构学习](https://zhuanlan.zhihu.com/p/44942360)
