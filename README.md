@@ -13,7 +13,10 @@
 + fork本项目
 + 发起pr
 
-### 第二十五周[最新】
+### 第二十六周[最新】
+1. [前端进阶之路-利用Jenkins快速打造前端项目自动化工作流](https://juejin.im/post/5bc000826fb9a05d330adf9d?utm_source=gold_browser_extension)
+
+### 第二十五周
 1. [node.js的实用进阶手册](https://github.com/maxogden/art-of-node#the-art-of-node)
 2. [令人愉快的VS Code包和资源的精选列表](https://github.com/viatsko/awesome-vscode)
 3. [Create React App 2.0发布](https://reactjs.org/blog/2018/10/01/create-react-app-v2.html)
