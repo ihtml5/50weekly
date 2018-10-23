@@ -16,6 +16,7 @@
 ### 第二十六周[最新】
 1. [前端进阶之路-利用Jenkins快速打造前端项目自动化工作流](https://juejin.im/post/5bc000826fb9a05d330adf9d?utm_source=gold_browser_extension)
 2. [服务端渲染与 Universal React App](https://zhuanlan.zhihu.com/p/30580569)
+3. [从源码分析sentry的错误信息收集](http://niexiaotao.cn/2018/08/18/%E4%BB%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90sentry%E7%9A%84%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/)
 
 ### 第二十五周
 1. [node.js的实用进阶手册](https://github.com/maxogden/art-of-node#the-art-of-node)
