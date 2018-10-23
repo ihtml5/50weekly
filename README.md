@@ -20,6 +20,7 @@
 4. [每个JavaScript开发人员应该知道的33个概念](https://github.com/leonardomso/33-js-concepts#readme)
 5. [WebAssembly的后MVP未来：卡通技能树](https://hacks.mozilla.org/2018/10/webassemblys-post-mvp-future/)
 6. [SSR a "Create React App" the hard way](https://askmike.org/articles/react-cra-ssr-rendering-from-scratch/)
+7. [前端工程化体系](https://juejin.im/entry/5884f012128fe1006c3b6526)
 
 ### 第二十五周
 1. [node.js的实用进阶手册](https://github.com/maxogden/art-of-node#the-art-of-node)
