@@ -23,7 +23,7 @@
 7. [前端工程化体系](https://juejin.im/entry/5884f012128fe1006c3b6526)
 8. [大前端的技术原理和变迁史](https://juejin.im/post/5b5adc9b6fb9a04f9244555d)
 9. [内到外了解React DOM的事件处理系统](https://medium.com/the-guild/getting-to-know-react-doms-event-handling-system-inside-out-378c44d2a5d0)
-10. [你可能不知道的前端知识点]()
+10. [React Hooks介绍](https://reactjs.org/docs/hooks-intro.html)
 
 ### 第二十五周
 1. [node.js的实用进阶手册](https://github.com/maxogden/art-of-node#the-art-of-node)
