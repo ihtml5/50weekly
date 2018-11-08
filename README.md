@@ -15,6 +15,7 @@
 ### 第二十七周[最新]
 1. [First (Contentful) Paint with a touch of Perfume(.js)](https://medium.com/@zizzamia/first-contentful-paint-with-a-touch-of-perfume-js-cd11dfd2e18f)
 2. [前端必会的 Nginx入门视频教程](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
+3. [如何实现高性能pwa](https://school.geekwall.in/p/ryhA2HXO7/high-performance-react-progressive-web-apps)
 
 ### 第二十六周[最新】
 1. [前端进阶之路-利用Jenkins快速打造前端项目自动化工作流](https://juejin.im/post/5bc000826fb9a05d330adf9d?utm_source=gold_browser_extension)
