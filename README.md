@@ -18,6 +18,8 @@
 3. [如何实现高性能pwa](https://school.geekwall.in/p/ryhA2HXO7/high-performance-react-progressive-web-apps)
 4. [Faster async functions and promises](https://v8.dev/blog/fast-async)
 5. [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+6. [不止代码：2019年前端工程师的未来在哪里](https://zhuanlan.zhihu.com/p/50095507)
+7. [一篇看懂 React Hooks](https://github.com/ascoders/blog/issues/29)
 
 ### 第二十六周[最新】
 1. [前端进阶之路-利用Jenkins快速打造前端项目自动化工作流](https://juejin.im/post/5bc000826fb9a05d330adf9d?utm_source=gold_browser_extension)
