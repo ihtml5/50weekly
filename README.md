@@ -156,4 +156,4 @@
 5. [如何使用Nuxt.js监控生产中的错误](如何使用Nuxt.js监控生产中的错误)
 6. [轻松入门Prepack（第1部分）](https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4)
 7. [你可能不需要派生状态 React官方最新博文](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
-8. [fetch 没有你想象的那么美](https://undefinedblog.com/
+8. [fetch 没有你想象的那么美](https://undefinedblog.com/)
