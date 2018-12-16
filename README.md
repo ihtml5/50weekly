@@ -14,6 +14,8 @@
 + 发起pr
 ### 第二十八周[最新]
 1. [Overreacted- React核心开发者 Dan Abramov的个人博客, 非常高质量](https://overreacted.io/)
+2. [高性能Node.js图像处理，是调整JPEG，PNG，WebP和TIFF图像大小的最快模块。 使用libvips库](https://github.com/lovell/sharp)
+
 ### 第二十七周
 1. [First (Contentful) Paint with a touch of Perfume(.js)](https://medium.com/@zizzamia/first-contentful-paint-with-a-touch-of-perfume-js-cd11dfd2e18f)
 2. [前端必会的 Nginx入门视频教程](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
