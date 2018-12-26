@@ -18,6 +18,11 @@
 3. [在线nginx配置](https://nginxconfig.io/)
 4. [为什么code review](https://sophiebits.com/2018/12/25/why-review-code.html)
 5. [微信小程序图片裁剪工具](https://github.com/we-plugin/we-cropper)
+6. [使用Angular 6进行错误处理 - 提示和最佳实践](https://scotch.io/bar-talk/error-handling-with-angular-6-tips-and-best-practices192?utm_sq=fy70wnyz6p)
+7. [使用react-hook 重写 react-redux](https://juejin.im/post/5c230aa2e51d4529355bc2e0)
+8. [quicklink：实现原理与给前端的启发](https://juejin.im/post/5c21f8435188256d12597789)
+9. [React Server Side Rendering with Koa](https://blog.lovemily.me/react-server-side-rendering-with-koa/)
+10. [面向亿万级用户的QQ一般做什么？——兴趣部落的Web同构直出分享](https://wetest.qq.com/lab/view/348.html)
 
 ### 第二十七周
 1. [First (Contentful) Paint with a touch of Perfume(.js)](https://medium.com/@zizzamia/first-contentful-paint-with-a-touch-of-perfume-js-cd11dfd2e18f)
