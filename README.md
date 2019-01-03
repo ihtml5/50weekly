@@ -14,6 +14,8 @@
 + 发起pr
 ### 第二十九周[最新]
 1.[浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
+2.[ReactJS SSR分析和缓存](https://medium.com/walmartlabs/reactjs-ssr-profiling-and-caching-5d8e9e49240c)
+3.[百度 SSP 单页式应用性能优化实践](https://www.infoq.cn/article/baidu-ssp-single-page-app-performance-optimize-practice)
 
 ### 第二十八周
 1. [Overreacted- React核心开发者 Dan Abramov的个人博客, 非常高质量](https://overreacted.io/)
