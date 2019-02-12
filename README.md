@@ -12,12 +12,18 @@
 ### 贡献指南
 + fork本项目
 + 发起pr
+
 ### 第二十九周[最新]
 1. [浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
 2. [ReactJS SSR分析和缓存](https://medium.com/walmartlabs/reactjs-ssr-profiling-and-caching-5d8e9e49240c)
 3. [百度 SSP 单页式应用性能优化实践](https://www.infoq.cn/article/baidu-ssp-single-page-app-performance-optimize-practice)
 4. [Vue in React, React in Vue. Seamless integration of the two](https://github.com/akxcv/vuera)
 5. [nodejs 多进程](https://segmentfault.com/a/1190000017804200)
+6. [首屏加载速度优化](https://zhuanlan.zhihu.com/p/56121620)
+7. [一篇文章构建你的 NodeJS 知识体系](https://zhuanlan.zhihu.com/p/56454078)
+8. [JavaScriptCore全面解析](https://zhuanlan.zhihu.com/p/55479666)
+9. [What Hooks Mean for Vue](https://css-tricks.com/what-hooks-mean-for-vue/)
+10. [React v16.8: The One With Hooks](https://reactjs.org/blog/2019/02/06/react-v16.8.0.html)
 
 ### 第二十八周
 1. [Overreacted- React核心开发者 Dan Abramov的个人博客, 非常高质量](https://overreacted.io/)
