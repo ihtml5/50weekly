@@ -13,7 +13,9 @@
 + fork本项目
 + 发起pr
 
-### 第二十九周[最新]
+### 第三十周[最新]
+1.[Sniffing Codes in Hot Module Reloading Messages](https://blog.cal1.cn/post/Sniffing%20Codes%20in%20Hot%20Module%20Reloading%20Messages)
+### 第二十九周
 1. [浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
 2. [ReactJS SSR分析和缓存](https://medium.com/walmartlabs/reactjs-ssr-profiling-and-caching-5d8e9e49240c)
 3. [百度 SSP 单页式应用性能优化实践](https://www.infoq.cn/article/baidu-ssp-single-page-app-performance-optimize-practice)
