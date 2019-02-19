@@ -15,6 +15,8 @@
 
 ### 第三十周[最新]
 1.[Sniffing Codes in Hot Module Reloading Messages](https://blog.cal1.cn/post/Sniffing%20Codes%20in%20Hot%20Module%20Reloading%20Messages)
+2.[Referrer Policy ](https://www.w3.org/TR/referrer-policy/e)
+
 ### 第二十九周
 1. [浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
 2. [ReactJS SSR分析和缓存](https://medium.com/walmartlabs/reactjs-ssr-profiling-and-caching-5d8e9e49240c)
