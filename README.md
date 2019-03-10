@@ -18,6 +18,8 @@
 2. [Referrer Policy ](https://www.w3.org/TR/referrer-policy/e)
 3. [Node.js Developer Roadmap](https://github.com/aliyr/Nodejs-Developer-Roadmap)
 4. [express框架源码分析](https://zhuanlan.zhihu.com/p/56947560)
+5. [前端同构渲染的思考与实践](https://juejin.im/post/5c821dc45188257e1f2915b1)
+6. [Webpack4+Babel7优化70%速度](https://juejin.im/post/5c763885e51d457380771ab0)
 
 ### 第二十九周
 1. [浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
