@@ -20,7 +20,9 @@
 4. [express框架源码分析](https://zhuanlan.zhihu.com/p/56947560)
 5. [前端同构渲染的思考与实践](https://juejin.im/post/5c821dc45188257e1f2915b1)
 6. [Webpack4+Babel7优化70%速度](https://juejin.im/post/5c763885e51d457380771ab0)
-
+7. [Nginx访问控制与参数调优](https://segmentfault.com/a/1190000018505993)
+8. [Lottie-前端实现AE动效](https://juejin.im/post/5c8ddddce51d4563ed1efac9)
+9. [我们刚刚发布了Create React App 3.0的第一个alpha版本](https://github.com/facebook/create-react-app/issues/6475)
 ### 第二十九周
 1. [浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
 2. [ReactJS SSR分析和缓存](https://medium.com/walmartlabs/reactjs-ssr-profiling-and-caching-5d8e9e49240c)
