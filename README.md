@@ -15,6 +15,7 @@
 
 ### 第三十一周[最新]
 1. [Node.js 应用线上/线下故障、压测问题和性能调优指南手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
+2. [高质量 Node.js 微服务的编写和部署](https://segmentfault.com/a/1190000006166385)
 
 ### 第三十周
 1. [Sniffing Codes in Hot Module Reloading Messages](https://blog.cal1.cn/post/Sniffing%20Codes%20in%20Hot%20Module%20Reloading%20Messages)
