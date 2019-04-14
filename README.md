@@ -19,7 +19,7 @@
 3. [在Spectrum上流式传输服务器端渲染和缓存](https://zeit.co/blog/streaming-server-rendering-at-spectrum?nsukey=uW6M5M2uTd6F3Nc1u6tAVuAMGhbsBnpEuVplgUQLBlKevYZGGYN%2Bi1m6RocmDu%2F9367Zl71zSNn%2BkcWnaXcdX7bmeFLEyjbMMVsl5VtaBTfAvX8iNXgXMdbYWxVuuAealdKz8wkNfwEQtp4yLxknnredPgKISZUp%2BuR420YfPbpg8dW1lJMnpBMwNAJYMFZ0)
 4. [一款轻量级react服务端渲染脚手架hmbird-ssr](http://zhangdajia.com/2018/11/30/%E4%B8%80%E6%AC%BE%E8%BD%BB%E9%87%8F%E7%BA%A7react%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%B8%B2%E6%9F%93%E8%84%9A%E6%89%8B%E6%9E%B6hmbird-ssr/)
 5. [7 Hardest Node.js Interview Questions & Answers](https://dev.to/aershov24/7-hardest-nodejs-interview-questions--answers-3lje)
-
+6. [来自1000多个项目的十大JavaScript错误（以及如何避免它们）](https://rollbar.com/blog/top-10-javascript-errors/)
 ### 第三十周
 1. [Sniffing Codes in Hot Module Reloading Messages](https://blog.cal1.cn/post/Sniffing%20Codes%20in%20Hot%20Module%20Reloading%20Messages)
 2. [Referrer Policy ](https://www.w3.org/TR/referrer-policy/e)
