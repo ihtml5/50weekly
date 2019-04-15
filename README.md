@@ -32,7 +32,7 @@
 7. [Nginx访问控制与参数调优](https://segmentfault.com/a/1190000018505993)
 8. [Lottie-前端实现AE动效](https://juejin.im/post/5c8ddddce51d4563ed1efac9)
 9. [我们刚刚发布了Create React App 3.0的第一个alpha版本](https://github.com/facebook/create-react-app/issues/6475)
-10.[Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
+10. [Writing Resilient Components](https://overreacted.io/writing-resilient-components/)
 
 ### 第二十九周
 1. [浅说虚拟列表的实现原理](https://github.com/dwqs/blog/issues/70)
