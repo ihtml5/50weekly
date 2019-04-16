@@ -21,6 +21,7 @@
 5. [7 Hardest Node.js Interview Questions & Answers](https://dev.to/aershov24/7-hardest-nodejs-interview-questions--answers-3lje)
 6. [来自1000多个项目的十大JavaScript错误（以及如何避免它们）](https://rollbar.com/blog/top-10-javascript-errors/)
 7. [Design with JSX, powered by your own component library.](https://github.com/seek-oss/playroom)
+8. [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
 
 ### 第三十周
 1. [Sniffing Codes in Hot Module Reloading Messages](https://blog.cal1.cn/post/Sniffing%20Codes%20in%20Hot%20Module%20Reloading%20Messages)
