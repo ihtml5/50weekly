@@ -15,6 +15,8 @@
 
 ### 第三十二周[最新]
 1. [Node.js内部是如何捕获异步错误的？](https://zhuanlan.zhihu.com/p/62210238)
+2. [ThinkJS项目中React同构实践](http://gyblog.cn/post/thinkjs%26react.html)
+
 ### 第三十一周[最新]
 1. [Node.js 应用线上/线下故障、压测问题和性能调优指南手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
 2. [高质量 Node.js 微服务的编写和部署](https://segmentfault.com/a/1190000006166385)
