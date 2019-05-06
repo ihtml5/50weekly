@@ -17,6 +17,7 @@
 1. [Node.js内部是如何捕获异步错误的？](https://zhuanlan.zhihu.com/p/62210238)
 2. [ThinkJS项目中React同构实践](http://gyblog.cn/post/thinkjs%26react.html)
 3. [My Tips about how to handle complex and tricky issues](https://blogs.sap.com/2014/05/01/my-tips-about-how-to-handle-complex-and-tricky-issues/)
+4. [Nodejs Knowledge Base](https://nodejs.org/zh-cn/knowledge/)
 
 ### 第三十一周[最新]
 1. [Node.js 应用线上/线下故障、压测问题和性能调优指南手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
