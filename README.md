@@ -21,6 +21,7 @@
 5. [PM2 — How to Start Your App With Node.js V8 Arguments](https://futurestud.io/tutorials/pm2-how-to-start-your-app-with-node-js-v8-arguments)
 6. [pm2源码分析](https://www.jianshu.com/p/ac843b516fda)
 7. [Nodejs 线上服务稳定性保障体系](https://zhuanlan.zhihu.com/p/23778500)
+8. [Top Node.js Metrics to Monitor](https://sematext.com/blog/top-nodejs-metrics-to-watch/)
 
 ### 第三十一周[最新]
 1. [Node.js 应用线上/线下故障、压测问题和性能调优指南手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
