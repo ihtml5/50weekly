@@ -23,6 +23,7 @@
 7. [Nodejs 线上服务稳定性保障体系](https://zhuanlan.zhihu.com/p/23778500)
 8. [Top Node.js Metrics to Monitor](https://sematext.com/blog/top-nodejs-metrics-to-watch/)
 9. [前端开发中的Error以及异常捕获](https://segmentfault.com/a/1190000017708563)
+10.[Instrumenting HTTP requests in node](https://medium.com/@tlivings/instrumenting-http-requests-in-node-5bf48c10f1c0)
 
 ### 第三十一周[最新]
 1. [Node.js 应用线上/线下故障、压测问题和性能调优指南手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
