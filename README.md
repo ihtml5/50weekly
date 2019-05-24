@@ -18,7 +18,7 @@
 2. [Understanding Vulnerabilities in Node.js Applications with N|Solid](https://nodesource.com/blog/understanding-vulnerabilities-in-node-js-applications-with-n-solid?utm_medium=Social&utm_source=twitter&utm_campaign=social)
 3. [Prepare Node.js apps production ready for Kubernetes](https://banzaicloud.com/blog/nodejs-in-production/)
 
-### 第三十二周[最新]
+### 第三十二周
 1. [Node.js内部是如何捕获异步错误的？](https://zhuanlan.zhihu.com/p/62210238)
 2. [ThinkJS项目中React同构实践](http://gyblog.cn/post/thinkjs%26react.html)
 3. [My Tips about how to handle complex and tricky issues](https://blogs.sap.com/2014/05/01/my-tips-about-how-to-handle-complex-and-tricky-issues/)
