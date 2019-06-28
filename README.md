@@ -20,7 +20,10 @@
 4. [在新的一年开始贡献Node.js](https://dev.to/azure/start-contributing-to-nodejs-in-the-new-year-3dlh)
 5. [在使用nginx 4年后，我们转向了Caddy  - 这就是原因](https://engineering.hashnode.com/after-4-years-with-nginx-we-switched-to-caddy-here-is-why-cjxbv8eb2001ke8s1yl7ndroz)
 6. [使用PM2时正常关闭NodeJS HTTP服务器](https://dev.to/acanimal/graceful-shutdown-nodejs-http-server-when-using-pm2-44-10o0)
-7. [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+7. [适用于JavaScript的Clean Code概念](https://github.com/ryanmcdermott/clean-code-javascript)
+8. [阿里前端委员会主席圆心：前端路上的思考](https://www.infoq.cn/article/bLJfJg5_Eq2yOlW5VBaP)
+9. [React 的未来：与 Suspense 共舞](https://blog.logrocket.com/the-future-of-react-unfolding-with-suspense/)
+10. [搞懂JavaScript引擎运行原理](https://segmentfault.com/a/1190000019530109)
 
 ### 第三十二周
 1. [Node.js内部是如何捕获异步错误的？](https://zhuanlan.zhihu.com/p/62210238)
