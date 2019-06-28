@@ -14,9 +14,10 @@
 + 发起pr
 
 ### 第三十三周[最新]
-1. [Trace-Context and the road toward trace tool interoperability](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
-2. [Understanding Vulnerabilities in Node.js Applications with N|Solid](https://nodesource.com/blog/understanding-vulnerabilities-in-node-js-applications-with-n-solid?utm_medium=Social&utm_source=twitter&utm_campaign=social)
-3. [Prepare Node.js apps production ready for Kubernetes](https://banzaicloud.com/blog/nodejs-in-production/)
+1. [跟踪上下文和跟踪工具互操作性的道路](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
+2. [使用N | Solid了解Node.js应用程序中的漏洞](https://nodesource.com/blog/understanding-vulnerabilities-in-node-js-applications-with-n-solid?utm_medium=Social&utm_source=twitter&utm_campaign=social)
+3. [准备好为Kubernetes准备的Node.js应用程序生产](https://banzaicloud.com/blog/nodejs-in-production/)
+4. [在新的一年开始贡献Node.js](https://dev.to/azure/start-contributing-to-nodejs-in-the-new-year-3dlh)
 
 ### 第三十二周
 1. [Node.js内部是如何捕获异步错误的？](https://zhuanlan.zhihu.com/p/62210238)
