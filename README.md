@@ -18,6 +18,8 @@
 2. [使用N | Solid了解Node.js应用程序中的漏洞](https://nodesource.com/blog/understanding-vulnerabilities-in-node-js-applications-with-n-solid?utm_medium=Social&utm_source=twitter&utm_campaign=social)
 3. [准备好为Kubernetes准备的Node.js应用程序生产](https://banzaicloud.com/blog/nodejs-in-production/)
 4. [在新的一年开始贡献Node.js](https://dev.to/azure/start-contributing-to-nodejs-in-the-new-year-3dlh)
+5. [在使用nginx 4年后，我们转向了Caddy  - 这就是原因](https://engineering.hashnode.com/after-4-years-with-nginx-we-switched-to-caddy-here-is-why-cjxbv8eb2001ke8s1yl7ndroz)
+6. [使用PM2时正常关闭NodeJS HTTP服务器](https://dev.to/acanimal/graceful-shutdown-nodejs-http-server-when-using-pm2-44-10o0)
 
 ### 第三十二周
 1. [Node.js内部是如何捕获异步错误的？](https://zhuanlan.zhihu.com/p/62210238)
