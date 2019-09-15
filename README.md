@@ -18,6 +18,8 @@
 3. [sampling-heap-profiler](https://github.com/v8/sampling-heap-profiler)
 4. [(have) Fun with Serverless(API Gateway & Function Compute)](https://github.com/alibaba/funcraft)
 5. [gify JavaScript API，用于使用ArrayBuffers从动画GIF解码/解析信息](https://github.com/rfrench/gify)
+6. [从头开始，彻底理解服务端渲染原理(8千字汇总长文)](https://zhuanlan.zhihu.com/p/76967335)
+7. [Node.js Under The Hood](https://hashnode.com/post/nodejs-under-the-hood-1-getting-to-know-our-tools-ck0dydu50001dxws1ebuddmx4)
 
 ### 第三十三周[最新]
 1. [跟踪上下文和跟踪工具互操作性的道路](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
