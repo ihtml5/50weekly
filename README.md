@@ -20,6 +20,8 @@
 5. [gify JavaScript API，用于使用ArrayBuffers从动画GIF解码/解析信息](https://github.com/rfrench/gify)
 6. [从头开始，彻底理解服务端渲染原理(8千字汇总长文)](https://zhuanlan.zhihu.com/p/76967335)
 7. [Node.js Under The Hood](https://hashnode.com/post/nodejs-under-the-hood-1-getting-to-know-our-tools-ck0dydu50001dxws1ebuddmx4)
+8. [w3c小程序标准](https://www.w3.org/TR/2019/WD-mini-app-white-paper-20190912/)
+9. [京东技术中台的 Flutter 实践之路](https://www.infoq.cn/article/qSLsru9bEvuHgKpPlWMP)
 
 ### 第三十三周[最新]
 1. [跟踪上下文和跟踪工具互操作性的道路](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
