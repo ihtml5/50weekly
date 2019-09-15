@@ -17,6 +17,7 @@
 2. [SPA Tracking & Monitoring: How to Build Better Single-Page Applications Through RUM (Real User Monitoring)](https://sematext.com/blog/tracking-and-monitoring-spa-apps/)
 3. [sampling-heap-profiler](https://github.com/v8/sampling-heap-profiler)
 4. [(have) Fun with Serverless(API Gateway & Function Compute)](https://github.com/alibaba/funcraft)
+5. [gify JavaScript API，用于使用ArrayBuffers从动画GIF解码/解析信息](https://github.com/rfrench/gify)
 
 ### 第三十三周[最新]
 1. [跟踪上下文和跟踪工具互操作性的道路](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
