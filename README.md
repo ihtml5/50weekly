@@ -22,6 +22,7 @@
 7. [Node.js Under The Hood](https://hashnode.com/post/nodejs-under-the-hood-1-getting-to-know-our-tools-ck0dydu50001dxws1ebuddmx4)
 8. [w3c小程序标准](https://www.w3.org/TR/2019/WD-mini-app-white-paper-20190912/)
 9. [京东技术中台的 Flutter 实践之路](https://www.infoq.cn/article/qSLsru9bEvuHgKpPlWMP)
+10.[The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
 
 ### 第三十三周
 1. [跟踪上下文和跟踪工具互操作性的道路](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
