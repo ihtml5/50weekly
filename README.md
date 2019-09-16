@@ -23,7 +23,7 @@
 8. [w3c小程序标准](https://www.w3.org/TR/2019/WD-mini-app-white-paper-20190912/)
 9. [京东技术中台的 Flutter 实践之路](https://www.infoq.cn/article/qSLsru9bEvuHgKpPlWMP)
 
-### 第三十三周[最新]
+### 第三十三周
 1. [跟踪上下文和跟踪工具互操作性的道路](https://medium.com/@AloisReitbauer/trace-context-and-the-road-toward-trace-tool-interoperability-d4d56932369c)
 2. [使用N | Solid了解Node.js应用程序中的漏洞](https://nodesource.com/blog/understanding-vulnerabilities-in-node-js-applications-with-n-solid?utm_medium=Social&utm_source=twitter&utm_campaign=social)
 3. [准备好为Kubernetes准备的Node.js应用程序生产](https://banzaicloud.com/blog/nodejs-in-production/)
