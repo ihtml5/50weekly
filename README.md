@@ -12,7 +12,12 @@
 ### 贡献指南
 + fork本项目
 + 发起pr
-### 第三十四周[最新]
+
+### 第三十五周[最新]
+1. [Understanding Worker Threads in Node.js](https://nodesource.com/blog/worker-threads-nodejs/)
+2. [ABC's of JavaScript and Node.js](https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs)
+
+### 第三十四周
 1. [zerker 一个基于flutter的canvas图形动画库](https://flutterkit.github.io/zerkerdocs/)
 2. [SPA Tracking & Monitoring: How to Build Better Single-Page Applications Through RUM (Real User Monitoring)](https://sematext.com/blog/tracking-and-monitoring-spa-apps/)
 3. [sampling-heap-profiler](https://github.com/v8/sampling-heap-profiler)
