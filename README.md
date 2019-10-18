@@ -18,6 +18,8 @@
 2. [ABC's of JavaScript and Node.js](https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs)
 3. [NodeJs internals: V8 & garbage collector](https://medium.com/voodoo-engineering/nodejs-internals-v8-garbage-collector-a6eca82540ec)
 4. [Node.JS Profile 1.2 V8 GC详解](https://xenojoshua.com/2018/01/node-v8-gc/)
+5. [Monitoring & Diagnostics – Scenarios](https://developer.ibm.com/node/monitoring-diagnostics-scenarios/)
+6. [Node.js Diagnostics]()
 
 ### 第三十四周
 1. [zerker 一个基于flutter的canvas图形动画库](https://flutterkit.github.io/zerkerdocs/)
