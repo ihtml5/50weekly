@@ -61,7 +61,7 @@
 10. [Instrumenting HTTP requests in node](https://medium.com/@tlivings/instrumenting-http-requests-in-node-5bf48c10f1c0)
 11. [https://www.quora.com/Whats-the-best-performance-monitoring-tool-for-Node-js](https://www.quora.com/Whats-the-best-performance-monitoring-tool-for-Node-js)
 
-### 第三十一周[最新]
+### 第三十一周
 1. [Node.js 应用线上/线下故障、压测问题和性能调优指南手册](https://github.com/aliyun-node/Node.js-Troubleshooting-Guide)
 2. [高质量 Node.js 微服务的编写和部署](https://segmentfault.com/a/1190000006166385)
 3. [在Spectrum上流式传输服务器端渲染和缓存](https://zeit.co/blog/streaming-server-rendering-at-spectrum?nsukey=uW6M5M2uTd6F3Nc1u6tAVuAMGhbsBnpEuVplgUQLBlKevYZGGYN%2Bi1m6RocmDu%2F9367Zl71zSNn%2BkcWnaXcdX7bmeFLEyjbMMVsl5VtaBTfAvX8iNXgXMdbYWxVuuAealdKz8wkNfwEQtp4yLxknnredPgKISZUp%2BuR420YfPbpg8dW1lJMnpBMwNAJYMFZ0)
