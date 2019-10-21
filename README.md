@@ -14,12 +14,15 @@
 + 发起pr
 
 ### 第三十五周[最新]
-1. [Understanding Worker Threads in Node.js](https://nodesource.com/blog/worker-threads-nodejs/)
-2. [ABC's of JavaScript and Node.js](https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs)
-3. [NodeJs internals: V8 & garbage collector](https://medium.com/voodoo-engineering/nodejs-internals-v8-garbage-collector-a6eca82540ec)
+1. [了解Node.js中的工作线程](https://nodesource.com/blog/worker-threads-nodejs/)
+2. [ABC的JavaScript和Node.js](https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs)
+3. [NodeJ内部：V8和垃圾收集器](https://medium.com/voodoo-engineering/nodejs-internals-v8-garbage-collector-a6eca82540ec)
 4. [Node.JS Profile 1.2 V8 GC详解](https://xenojoshua.com/2018/01/node-v8-gc/)
-5. [Monitoring & Diagnostics – Scenarios](https://developer.ibm.com/node/monitoring-diagnostics-scenarios/)
-6. [Node.js Diagnostics]()
+5. [监控和诊断–方案](https://developer.ibm.com/node/monitoring-diagnostics-scenarios/)
+6. [聊一聊状态管理&Concent设计理念](https://juejin.im/post/5da7cb9cf265da5bbb1e4f8c)
+7. [ Nginx Configuration Files Parser](https://github.com/zxqfox/nginx-conf-parser)
+8. [nodejs-diagnostics-resources](https://github.com/matvi3nko/nodejs-diagnostics-resources)
+9. [JavaScript影响SEO性能的8种主要方式](https://dev.to/rachellcostello/the-8-main-ways-javascript-can-impact-seo-performance-4op7)
 
 ### 第三十四周
 1. [zerker 一个基于flutter的canvas图形动画库](https://flutterkit.github.io/zerkerdocs/)
