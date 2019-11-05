@@ -13,7 +13,10 @@
 + fork本项目
 + 发起pr
 
-### 第三十五周[最新]
+### 第三十六周[最新]
+1. [Auditing package dependencies for security vulnerabilities](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
+
+### 第三十五周
 1. [了解Node.js中的工作线程](https://nodesource.com/blog/worker-threads-nodejs/)
 2. [ABC的JavaScript和Node.js](https://nodesource.com/blog/ABC-of-JavaScript-and-Nodejs)
 3. [NodeJ内部：V8和垃圾收集器](https://medium.com/voodoo-engineering/nodejs-internals-v8-garbage-collector-a6eca82540ec)
