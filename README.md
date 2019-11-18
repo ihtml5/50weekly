@@ -14,7 +14,9 @@
 + 发起pr
 
 ### 第三十六周[最新]
-1. [Auditing package dependencies for security vulnerabilities](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
+1. [nodejs中如何审核程序包相关性是否存在安全漏洞](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
+2. [全面掌握Express使用中的错误处理](https://zellwk.com/blog/express-errors/)
+3. [深入研究Node.js模块架构](https://codequs.com/p/SkLMD7OKV/deep-dive-into-node-js-module-architecture)
 
 ### 第三十五周
 1. [了解Node.js中的工作线程](https://nodesource.com/blog/worker-threads-nodejs/)
