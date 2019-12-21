@@ -20,6 +20,7 @@
 4. [ESM in Node has been unflagged!](https://medium.com/the-node-js-collection/esm-in-node-has-been-unflagged-other-node-js-updates-of-this-week-46-2019-d805b5d4f93b)
 5. [Node 接入层 - 技术选型](http://sivagao.com/blog/node-gateway-choices/)
 6. [Node.js & JavaScript Testing Best Practices (2019)](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
+7. [前端 JavaScript 错误分析实践](https://juejin.im/post/5df3522751882512302db3ca)
 
 ### 第三十五周
 1. [了解Node.js中的工作线程](https://nodesource.com/blog/worker-threads-nodejs/)
