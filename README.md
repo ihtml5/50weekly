@@ -18,6 +18,7 @@
 2. [全面掌握Express使用中的错误处理](https://zellwk.com/blog/express-errors/)
 3. [深入研究Node.js模块架构](https://codequs.com/p/SkLMD7OKV/deep-dive-into-node-js-module-architecture)
 4. [ESM in Node has been unflagged!](https://medium.com/the-node-js-collection/esm-in-node-has-been-unflagged-other-node-js-updates-of-this-week-46-2019-d805b5d4f93b)
+5. [Node 接入层 - 技术选型](http://sivagao.com/blog/node-gateway-choices/)
 
 ### 第三十五周
 1. [了解Node.js中的工作线程](https://nodesource.com/blog/worker-threads-nodejs/)
