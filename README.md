@@ -22,6 +22,7 @@
 6. [Node.js & JavaScript Testing Best Practices (2019)](https://medium.com/@me_37286/yoni-goldberg-javascript-nodejs-testing-best-practices-2b98924c9347)
 7. [前端 JavaScript 错误分析实践](https://juejin.im/post/5df3522751882512302db3ca)
 8. [How to build a CLI with Node.js](https://morioh.com/p/70b08c242678)
+9. [Build and Secure a GraphQL Server with Node.js](https://auth0.com/blog/build-and-secure-a-graphql-server-with-node-js/)
 
 ### 第三十五周
 1. [了解Node.js中的工作线程](https://nodesource.com/blog/worker-threads-nodejs/)
