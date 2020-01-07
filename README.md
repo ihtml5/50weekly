@@ -14,6 +14,8 @@
 + 发起pr
 ### 第三十七周[最新]
 1. [Node.js 在企业中的应用实践集锦](https://zhuanlan.zhihu.com/p/100071394)
+2. [Streams, Piping, and Their Error Handling in Node.js](https://medium.com/javascript-in-plain-english/streams-piping-and-their-error-handling-in-nodejs-c3fd818530b6)
+3. [Docker for Node.js Projects From a Docker Captain](https://couponos.me/coupon/docker-mastery-for-nodejs/)
 
 ### 第三十六周
 1. [nodejs中如何审核程序包相关性是否存在安全漏洞](https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities)
