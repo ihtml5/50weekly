@@ -13,7 +13,15 @@
 + fork本项目
 + 发起pr
 
-### 第三十七周[最新]
+### 第三十八周[最新]
+1. [译|Web上的分享（Share）API](https://css-tricks.com/how-to-use-the-web-share-api/)
+2. [Webpack 5 正式发布](https://zhuanlan.zhihu.com/p/265487322)
+3. [FFCreator 一个基于node.js的极速短视频加工库](https://github.com/tnfe/FFCreator)
+4. [sql.js 1.4: A Library to Run SQLite on the Web](https://github.com/sql-js/sql.js)
+5. [Memoization and React](https://epicreact.dev/memoization-and-react/)
+6. [Node.js 14.15.0 'Fermium' (LTS) 发布](https://nodejs.org/en/blog/release/v14.15.0/)
+
+### 第三十七周
 1. [Node.js 在企业中的应用实践集锦](https://zhuanlan.zhihu.com/p/100071394)
 2. [Streams, Piping, and Their Error Handling in Node.js](https://medium.com/javascript-in-plain-english/streams-piping-and-their-error-handling-in-nodejs-c3fd818530b6)
 3. [Docker for Node.js Projects From a Docker Captain](https://couponos.me/coupon/docker-mastery-for-nodejs/)
