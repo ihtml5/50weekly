@@ -21,6 +21,7 @@
 5. [使用 ImageKit 响应图像裁剪和转换](https://imagekit.io//blog/image-cropping-in-react-application/?utm_source=Cooperpress&utm_medium=email&utm_campaign=Reactstatus_newsletter&utm_content=PrimaryLink_Serverlessimagetransformations)
 6. [Google Flutter 现在在开发使用中与 Facebook 的 React Native 竞争](https://thenewstack.io/google-flutter-now-rivals-facebooks-react-in-developer-use/)
 7. [React Native 0.65 版本发布](https://reactnative.dev/blog/2021/08/17/version-065)
+
 ### 第三十八周
 1. [译|Web上的分享（Share）API](https://css-tricks.com/how-to-use-the-web-share-api/)
 2. [Webpack 5 正式发布](https://zhuanlan.zhihu.com/p/265487322)
