@@ -12,8 +12,8 @@
 ### 贡献指南
 + fork本项目
 + 发起pr
-### 第三十九周[最新]
 
+### 第三十九周[最新]
 1. [mdebug 新一代移动web开发工具](https://github.com/tnfe/mdebug/)
 2. [8个有效的基础web设计原则](https://dev.to/imiahazel/8-fundamental-principles-of-effective-web-design-196l)
 3. [A Vue.js component to lazy load an image automatically when it enters the viewport using the Intersection Observer API.](https://github.com/alexjoverm/v-lazy-image)
@@ -23,7 +23,7 @@
 7. [React Native 0.65 版本发布](https://reactnative.dev/blog/2021/08/17/version-065)
 
 ### 第三十八周
-1. [译|Web上的分享（Share）API](https://css-tricks.com/how-to-use-the-web-share-api/)
+1. [Web上的分享API](https://css-tricks.com/how-to-use-the-web-share-api/)
 2. [Webpack 5 正式发布](https://zhuanlan.zhihu.com/p/265487322)
 3. [FFCreator 一个基于node.js的极速短视频加工库](https://github.com/tnfe/FFCreator)
 4. [sql.js 1.4: A Library to Run SQLite on the Web](https://github.com/sql-js/sql.js)
