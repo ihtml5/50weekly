@@ -15,12 +15,13 @@
 
 ### 第三十九周[最新]
 1. [mdebug 新一代移动web开发工具](https://github.com/tnfe/mdebug/)
-2. [8个有效的基础web设计原则](https://dev.to/imiahazel/8-fundamental-principles-of-effective-web-design-196l)
-3. [A Vue.js component to lazy load an image automatically when it enters the viewport using the Intersection Observer API.](https://github.com/alexjoverm/v-lazy-image)
-4. [Next.js 11.1 Released](https://nextjs.org/blog/next-11-1)
-5. [使用 ImageKit 响应图像裁剪和转换](https://imagekit.io//blog/image-cropping-in-react-application/?utm_source=Cooperpress&utm_medium=email&utm_campaign=Reactstatus_newsletter&utm_content=PrimaryLink_Serverlessimagetransformations)
-6. [Google Flutter 现在在开发使用中与 Facebook 的 React Native 竞争](https://thenewstack.io/google-flutter-now-rivals-facebooks-react-in-developer-use/)
-7. [React Native 0.65 版本发布](https://reactnative.dev/blog/2021/08/17/version-065)
+2. [web components weekly](https://github.com/ihtml5/wc-weekly)
+3. [8个有效的基础web设计原则](https://dev.to/imiahazel/8-fundamental-principles-of-effective-web-design-196l)
+4. [A Vue.js component to lazy load an image automatically when it enters the viewport using the Intersection Observer API.](https://github.com/alexjoverm/v-lazy-image)
+5. [Next.js 11.1 Released](https://nextjs.org/blog/next-11-1)
+6. [使用 ImageKit 响应图像裁剪和转换](https://imagekit.io//blog/image-cropping-in-react-application/?utm_source=Cooperpress&utm_medium=email&utm_campaign=Reactstatus_newsletter&utm_content=PrimaryLink_Serverlessimagetransformations)
+7. [Google Flutter 现在在开发使用中与 Facebook 的 React Native 竞争](https://thenewstack.io/google-flutter-now-rivals-facebooks-react-in-developer-use/)
+8. [React Native 0.65 版本发布](https://reactnative.dev/blog/2021/08/17/version-065)
 
 ### 第三十八周
 1. [Web上的分享API](https://css-tricks.com/how-to-use-the-web-share-api/)
