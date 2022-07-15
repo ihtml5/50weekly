@@ -13,7 +13,16 @@
 + fork本项目
 + 发起pr
 
-### 第三十九周[最新]
+### 第四十周[最新]
+1. [小众领域：我所了解的编辑器](https://juejin.cn/post/7047420800193789988)
+2. [bun 令人难以置信的快速 JavaScript 运行时、捆绑器、转译器和包管理器 - 合二为一。](https://github.com/oven-sh/bun)
+3. [Javascript数据结构和算法](https://github.com/loiane/javascript-datastructures-algorithms)
+4. [Million 是一个轻量级 (<1kb) 虚拟 DOM。它非常快，并且可以轻松创建用户界面。](https://github.com/aidenybai/million)
+5. [Macaron 是一个可视化创建 Web 组件的开源设计工具](https://github.com/macaron-elements/macaron)
+6. [appsmith 用于构建管理面板、内部工具和仪表板的低代码项目。与 15 多个数据库和任何 API 集成。](https://github.com/appsmithorg/appsmith)
+7. [Responsively App Web 开发人员必备的开发工具，可实现更快的响应式 Web 开发](https://github.com/responsively-org/responsively-app)
+
+### 第三十九周
 1. [mdebug 新一代移动web开发工具](https://github.com/tnfe/mdebug/)
 2. [web components weekly](https://github.com/ihtml5/wc-weekly)
 3. [8个有效的基础web设计原则](https://dev.to/imiahazel/8-fundamental-principles-of-effective-web-design-196l)
