@@ -13,6 +13,16 @@
 + fork本项目
 + 发起pr
 
+### 第四十一周[最新]
+1. [p-queue 强大易用的并发控制库](https://github.com/sindresorhus/p-queue)
+2. [dtracker 通用前端网络请求拦截库 支持Ajax，Fetch，Image，navigator.sendBeacon等请求。常用于接口异常监控，数据上报，数据旁路等场景](https://github.com/ihtml5/dtracker)
+3. [性能提升30%以上, JDHybrid h5加载优化实践](https://juejin.cn/post/7120045012494057479)
+4. [An Introduction to Multithreading in Node.js](https://blog.appsignal.com/2022/07/20/an-introduction-to-multithreading-in-nodejs.html)
+5. [React技术揭秘](https://react.iamkasong.com/)
+6. [reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions)
+7. [Inside look at modern web browser 浏览器内部实现](https://developer.chrome.com/blog/inside-browser-part1/)
+8. [Superstate：一个新的“微”状态管理库](https://superstate.dev/)
+
 ### 第四十周[最新]
 1. [小众领域：我所了解的编辑器](https://juejin.cn/post/7047420800193789988)
 2. [bun 令人难以置信的快速 JavaScript 运行时、捆绑器、转译器和包管理器 - 合二为一。](https://github.com/oven-sh/bun)
