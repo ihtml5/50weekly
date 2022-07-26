@@ -23,7 +23,7 @@
 7. [Inside look at modern web browser 浏览器内部实现](https://developer.chrome.com/blog/inside-browser-part1/)
 8. [Superstate：一个新的“微”状态管理库](https://superstate.dev/)
 
-### 第四十周[最新]
+### 第四十周
 1. [小众领域：我所了解的编辑器](https://juejin.cn/post/7047420800193789988)
 2. [bun 令人难以置信的快速 JavaScript 运行时、捆绑器、转译器和包管理器 - 合二为一。](https://github.com/oven-sh/bun)
 3. [Javascript数据结构和算法](https://github.com/loiane/javascript-datastructures-algorithms)
