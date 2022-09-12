@@ -13,7 +13,10 @@
 + fork本项目
 + 发起pr
 
-### 第四十一周[最新]
+### 第四十二周[最新]
+1. [玩转 Chrome DevTools，定制自己的调试工具](https://zhuanlan.zhihu.com/p/556016911)
+
+### 第四十一周
 1. [p-queue 强大易用的并发控制库](https://github.com/sindresorhus/p-queue)
 2. [dtracker 通用前端网络请求拦截库 支持Ajax，Fetch，Image，navigator.sendBeacon等请求。常用于接口异常监控，数据上报，数据旁路等场景](https://github.com/ihtml5/dtracker)
 3. [性能提升30%以上, JDHybrid h5加载优化实践](https://juejin.cn/post/7120045012494057479)
