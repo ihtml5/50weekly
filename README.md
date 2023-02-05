@@ -15,6 +15,8 @@
 
 ### 第四十二周[最新]
 1. [玩转 Chrome DevTools，定制自己的调试工具](https://zhuanlan.zhihu.com/p/556016911)
+2. [Implementing Server-Driven UI Architecture on the Shop App](https://shopify.engineering/server-driven-ui-in-shop-app)
+3. [CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
 
 ### 第四十一周
 1. [p-queue 强大易用的并发控制库](https://github.com/sindresorhus/p-queue)
