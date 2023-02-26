@@ -20,6 +20,7 @@
 4. [Islands Architecture](https://jasonformat.com/islands-architecture/)
 5. [基于 pnpm + changesets 的 monorepo 最佳实践](https://juejin.cn/post/7181409989670961207)
 6. [Server-driven UI (or Backend driven UI) strategies](https://github.com/MobileNativeFoundation/discussions/discussions/47)
+7. [前端通用组件](https://zhuanlan.zhihu.com/p/609407715)
 
 ### 第四十一周
 1. [p-queue 强大易用的并发控制库](https://github.com/sindresorhus/p-queue)
